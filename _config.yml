@@ -1,0 +1,9 @@
+
+title: Chris Carter
+
+auto: true
+markdown: kramdown
+permalink: /:year/:month/:day/:title
+
+sass:
+  sass_dir: _sass
