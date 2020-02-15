@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Laws of Nature
+title: The Laws of Nature
 author: Chris Carter
 published: true
 ---
