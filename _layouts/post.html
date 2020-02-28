@@ -11,6 +11,13 @@ layout: default
       <div class="column is-half">
         <div class="container">
 
+          {% if page.image %}
+            <div class="container">
+              <img src="{{ page.image }}" alt="{{ page.caption }}">
+            </div>
+            <br>
+          {% endif %}
+
           <p class="title">{{ page.title }}</p>
           <p class="subtitle">by {{ page.author }}</p>
 
