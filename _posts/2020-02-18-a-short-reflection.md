@@ -2,6 +2,7 @@
 layout: post
 title: A Short Reflection
 author: Chris Carter
+published: false
 ---
 
 I have walked with Christ for eight years.
