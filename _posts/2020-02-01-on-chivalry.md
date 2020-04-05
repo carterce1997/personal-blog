@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chivalry
+title: On Chivalry
 author: Chris Carter
 ---
 
