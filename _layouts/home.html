@@ -7,39 +7,17 @@ layout: default
     <div class="column">
 
     </div>
-    <div class="column is-one-third">
+    <div class="column is-two-thirds">
       <div class="container">
 
         {% for p in site.posts %}
 
-          {% assign loopindex = forloop.index | modulo: 2 %}
-          {% if loopindex == 1 %}
-            <div class="content">
-              <a class="title is-5 is-pulled-right" href="{{ p.url }}">{{ p.title }}</a>
+            <div class="content" style="text-align:center">
+              <a class="title is-5 is-centered" href="{{ p.url }}">{{ p.title }}</a>
               <br>
               <!-- <a class="subtitle is-6 is-pulled-right" href="{{ p.url }}">{{ p.date | date: "%b %-d, %Y" }}</a> -->
               <br>
             </div>
-          {% endif %}
-
-        {% endfor %}
-
-      </div>
-    </div>
-    <div class="column is-one-third">
-      <div class="container">
-
-        {% for p in site.posts %}
-
-        {% assign loopindex = forloop.index | modulo: 2 %}
-        {% if loopindex == 0 %}
-          <div class="content">
-            <a class="title is-5" href="{{ p.url }}">{{ p.title }}</a>
-            <br>
-            <!-- <p class="subtitle is-6">{{ p.date | date: "%b %-d, %Y" }}</p> -->
-            <br>
-          </div>
-        {% endif %}
 
         {% endfor %}
 
