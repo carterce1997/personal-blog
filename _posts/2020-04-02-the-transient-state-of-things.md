@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Chris Carter
-title: The Transient State of Things
+title: The Transience of the World
 published: false
 date: 2020-04-08T01:59:23.785Z
 ---
