@@ -2,28 +2,25 @@
 layout: default
 ---
 
-<section class="section">
 
-  {% if page.image %}
-    <div class="container">
-      <img src="{{ page.image }}" alt="{{ page.caption }}">
-      {% if page.caption %}
-        <p align="right">{{ page.caption }}</p>
-      {% endif %}
-    </div>
-    <br>
-  {% endif %}
-
-  <div class="container" style="text-align:center">
-    <p class="title">{{ page.title }}</p>
-    <p class="subtitle">{{ page.date | date: "%b %-d, %Y" }}</p>
-    <p class="subtitle">by {{ page.author }}</p>
+{% if page.image %}
+  <div class="container">
+    <img src="{{ page.image }}" alt="{{ page.caption }}">
+    {% if page.caption %}
+      <p align="right">{{ page.caption }}</p>
+    {% endif %}
   </div>
-
   <br>
+{% endif %}
 
-  <div class="post-content">
-    {{ content }}
-  </div>
+<div class="container" style="text-align:center">
+  <p class="title">{{ page.title }}</p>
+  <p class="subtitle">{{ page.date | date: "%b %-d, %Y" }}</p>
+  <p class="subtitle">by {{ page.author }}</p>
+</div>
 
-</section>
+<br>
+
+<div class="post-content">
+  {{ content }}
+</div>
