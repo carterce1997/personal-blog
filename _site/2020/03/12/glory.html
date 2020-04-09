@@ -5,13 +5,30 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <title>Unapologetics</title>
+
+    <!-- Stylesheet -->
     <link rel="stylesheet" href="/assets/css/mystyles.css">
+
+    <!-- Netlify Identity -->
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-144214802-3"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-144214802-3');
+    </script>
+
   </head>
 
   <header>
+
+    <!-- Title -->
     <nav class="level">
       <div class="level-item has-text-centered">
         <div class="container">
@@ -21,29 +38,34 @@
       </div>
     </nav>
 
+    <!-- Little horizontal line -->
     <hr style="width: 10%; margin: 1em auto;">
+
   </header>
 
   <body>
-    <section class='container'>
-      <main>
-        <section class="section">
-  <div class="container">
-    <div class="columns">
-      <div class="column">
 
-      </div>
-      <div class="column is-half">
-        <div class="container">
+    <!-- Content, centered with gaps on either side of the page -->
+    <main>
+      <div class="columns is-mobile">
+        <!-- Filler column -->
+        <div class="column"></div>
+          <!-- Center content column -->
+          <div class="column is-half">
+            <section class="section">
 
-          
+  
 
-          <p class="title">Glory</p>
-          <p class="subtitle">Mar 12, 2020</p>
-          <p class="subtitle">by Chris Carter</p>
+  <div class="container" style="text-align:center">
+    <p class="title">Glory</p>
+    <p class="subtitle">Mar 12, 2020</p>
+    <p class="subtitle">by Chris Carter</p>
+  </div>
 
-          <div class="post-content">
-            <p>As I walk <br />
+  <br>
+
+  <div class="post-content">
+    <p>As I walk <br />
 I watch the stars worship You <br />
 And I hear the stones sing Your praises. <br /></p>
 
@@ -59,21 +81,17 @@ And sorrow aches in my bones. <br /></p>
 And I long to see You <br />
 As You are. <br /></p>
 
-          </div>
-        </div>
-      </div>
-      <div class="column">
-
-      </div>
-    </div>
   </div>
-
 
 </section>
 
-      </main>
-    </section>
+          </div>
+          <!-- Fillter column -->
+          <div class="column"></div>
+        </div>
+    </main>
 
+    <!-- Netlify Indentity Admin Redirect -->
     <script>
       if (window.netlifyIdentity) {
         window.netlifyIdentity.on("init", user => {

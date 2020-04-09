@@ -5,13 +5,30 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <title>Unapologetics</title>
+
+    <!-- Stylesheet -->
     <link rel="stylesheet" href="/assets/css/mystyles.css">
+
+    <!-- Netlify Identity -->
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-144214802-3"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-144214802-3');
+    </script>
+
   </head>
 
   <header>
+
+    <!-- Title -->
     <nav class="level">
       <div class="level-item has-text-centered">
         <div class="container">
@@ -21,29 +38,34 @@
       </div>
     </nav>
 
+    <!-- Little horizontal line -->
     <hr style="width: 10%; margin: 1em auto;">
+
   </header>
 
   <body>
-    <section class='container'>
-      <main>
-        <section class="section">
-  <div class="container">
-    <div class="columns">
-      <div class="column">
 
-      </div>
-      <div class="column is-half">
-        <div class="container">
+    <!-- Content, centered with gaps on either side of the page -->
+    <main>
+      <div class="columns is-mobile">
+        <!-- Filler column -->
+        <div class="column"></div>
+          <!-- Center content column -->
+          <div class="column is-half">
+            <section class="section">
 
-          
+  
 
-          <p class="title">On Chivalry</p>
-          <p class="subtitle">Feb 1, 2020</p>
-          <p class="subtitle">by Chris Carter</p>
+  <div class="container" style="text-align:center">
+    <p class="title">On Chivalry</p>
+    <p class="subtitle">Feb 1, 2020</p>
+    <p class="subtitle">by Chris Carter</p>
+  </div>
 
-          <div class="post-content">
-            <p>Chivalry is colloquially understood by modern people as a set of actions which constitute “good manners” especially with respect to interactions between men and women. A chivalrous man, in the modern conception of the term, holds the door for a woman, minds his language around her, and might offer her his jacket if she gets cold. It’s a bit beyond “good manners”: instead of a set of behaviors based upon giving honor and respect to everyone around you, no matter the circumstance, chivalry is a consequence of the natural differences between men and women. The chivalrous man honors a woman for who she is, and as such, he takes into account her strengths, weaknesses, and desires to be treated differently than he would treat his male counterparts when he interacts with her.</p>
+  <br>
+
+  <div class="post-content">
+    <p>Chivalry is colloquially understood by modern people as a set of actions which constitute “good manners” especially with respect to interactions between men and women. A chivalrous man, in the modern conception of the term, holds the door for a woman, minds his language around her, and might offer her his jacket if she gets cold. It’s a bit beyond “good manners”: instead of a set of behaviors based upon giving honor and respect to everyone around you, no matter the circumstance, chivalry is a consequence of the natural differences between men and women. The chivalrous man honors a woman for who she is, and as such, he takes into account her strengths, weaknesses, and desires to be treated differently than he would treat his male counterparts when he interacts with her.</p>
 
 <p><br /></p>
 
@@ -57,21 +79,17 @@
 
 <p>Consequentially, the art of chivalry is not something that simply occurs without the exertion of the will, and the application of the grace of God, as every son of Adam is born with a total deficiency of virtue, his will inclined towards all evil, an unruly thing which must be violently wrangled within him by the common grace of God through education, conscience, and socialization, so that he is restrained as an angry dog would be, and can only give himself over to <em>some</em> of the evil his heart desires. Only God can change the wretched heart of man, and only changed men have a heart for God. Most men do not care to live for their Maker, but when an enlightened man is commanded by God to improve himself, he must strengthen the weaker of the two characters within. If he stumbles in the higher virtues, the application of philosophy, theology, music, and etiquette is in order. If he lacks the strenuous virtues, a regimen of training with the goal of bodily capability, adeptness of skill, and healthy competition is the natural course of action. Such is the way of becoming a whole man, at least, the way I see it right now.</p>
 
-          </div>
-        </div>
-      </div>
-      <div class="column">
-
-      </div>
-    </div>
   </div>
-
 
 </section>
 
-      </main>
-    </section>
+          </div>
+          <!-- Fillter column -->
+          <div class="column"></div>
+        </div>
+    </main>
 
+    <!-- Netlify Indentity Admin Redirect -->
     <script>
       if (window.netlifyIdentity) {
         window.netlifyIdentity.on("init", user => {

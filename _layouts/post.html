@@ -3,38 +3,27 @@ layout: default
 ---
 
 <section class="section">
-  <div class="container">
-    <div class="columns">
-      <div class="column">
 
-      </div>
-      <div class="column is-half">
-        <div class="container">
-
-          {% if page.image %}
-            <div class="container">
-              <img src="{{ page.image }}" alt="{{ page.caption }}">
-              {% if page.caption %}
-                <p align="right">{{ page.caption }}</p>
-              {% endif %}
-            </div>
-            <br>
-          {% endif %}
-
-          <p class="title">{{ page.title }}</p>
-          <p class="subtitle">{{ page.date | date: "%b %-d, %Y" }}</p>
-          <p class="subtitle">by {{ page.author }}</p>
-
-          <div class="post-content">
-            {{ content }}
-          </div>
-        </div>
-      </div>
-      <div class="column">
-
-      </div>
+  {% if page.image %}
+    <div class="container">
+      <img src="{{ page.image }}" alt="{{ page.caption }}">
+      {% if page.caption %}
+        <p align="right">{{ page.caption }}</p>
+      {% endif %}
     </div>
+    <br>
+  {% endif %}
+
+  <div class="container" style="text-align:center">
+    <p class="title">{{ page.title }}</p>
+    <p class="subtitle">{{ page.date | date: "%b %-d, %Y" }}</p>
+    <p class="subtitle">by {{ page.author }}</p>
   </div>
 
+  <br>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
 
 </section>

@@ -3,28 +3,19 @@ layout: default
 ---
 
 <section class="section" id="posts">
-  <div class="columns is-mobile">
-    <div class="column">
+  <div class="container">
 
-    </div>
-    <div class="column is-two-thirds">
-      <div class="container">
+    {% for p in site.posts %}
 
-        {% for p in site.posts %}
+        <!-- Post title, centered on page -->
+        <div class="container" style="text-align:center">
+          <a class="title is-5 is-centered" href="{{ p.url }}">{{ p.title }}</a>
+        </div>
 
-            <div class="content" style="text-align:center">
-              <a class="title is-5 is-centered" href="{{ p.url }}">{{ p.title }}</a>
-              <br>
-              <!-- <a class="subtitle is-6 is-pulled-right" href="{{ p.url }}">{{ p.date | date: "%b %-d, %Y" }}</a> -->
-              <br>
-            </div>
+        <!-- Small space -->
+        <br>
 
-        {% endfor %}
+    {% endfor %}
 
-      </div>
-    </div>
-    <div class="column">
-
-    </div>
   </div>
 </section>
