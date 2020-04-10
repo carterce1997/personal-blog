@@ -2,7 +2,7 @@
 layout: post
 title: Christianity and Calamity
 author: Chris Carter
-date: 2020-04-09T17:25:44.955Z
+date: 2020-04-05T17:25:44.955Z
 ---
 It's hard to introduce a topic like this, not because it's so specific, but because it's so general. Calamity is one of those things that needs no introduction. The history of the human race is, to a great extent, the enumeration of calamities in their chronological sequence, in the form of a list of wars, plagues, uprisings, and travesties. Times of peace and comfort are a rarity, and that's just a reality of life.
 
