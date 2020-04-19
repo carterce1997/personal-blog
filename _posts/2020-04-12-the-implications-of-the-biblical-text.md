@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: The Abhorrence of Soteriological Vacuum
-date: 2020-04-08T13:01:38.936Z
+title: The Abhorrence of a Soteriological Vacuum
+date: 2020-04-19T02:01:05.679Z
 ---
 Man needs saving.
 
