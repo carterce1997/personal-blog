@@ -1,7 +1,8 @@
 ---
-layout: blog
+layout: post
 title: Man Abhorrs a Soteriological Vacuum
 date: 2020-04-19T02:01:05.679Z
+author: Chris Carter
 ---
 The archetype of salvation, that is, of rebirth, regeneration, deliverance from evil, transcendence, etc. is a ubiquitous element of every culture regardless of its religious background. Some men seek this salvation through works, and strive to align their behavior with some moral code expounded in a religious text. Others seek to transcend themselves through meditation or spiritual awakening. Still others will devote their lives and their intellects to sociopolitical advancement, such as  neo-conservatism, communism, socialism, environmentalism, imperialism, or anarchism. Many seek salvation through intellectual and moral fulfillment, or the acquisition of power, or romance, or sensual pleasure, though they would not say that they are seeking such things. Even the most ardent rock-ribbed atheists describe conversion to atheism using soteriological language. Richard Dawkins, author of *The God Delusion*, grants Neo-Darwinian Evolution religious sanctity when he says, "Although atheism might have been *logically* tenable before Darwin, Darwin made it possible to be an intellectually fulfilled atheist". His contemporary Neil DeGrasse Tyson, well-known evangelist of scientism and a staunch skeptic of theism, proclaims the wonders of the cosmological origins of matter with something more akin to religious zeal than scientific curiosity when he says, "I know that the molecules in my body are traceable to phenomena in the cosmos. That makes me want to grab people on the street and say: ‘Have you HEARD THIS?'". In a similar manner to Aristotle's deduction that nature abhors a vacuum, so mankind abhors a soteriological void.
 
