@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: The Implications of the Biblical Text
+title: The Abhorrence of Soteriological Vacuum
 date: 2020-04-08T13:01:38.936Z
 ---
 Man needs saving.
