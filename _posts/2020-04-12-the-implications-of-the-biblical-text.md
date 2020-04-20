@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Man Abhors a Soteriological Vacuum
+title: Soteriological Vacuum
 author: Chris Carter
 date: 2020-04-19T02:01:05.679Z
 ---
