@@ -6,35 +6,23 @@ layout: default
 
   {% for p in site.posts %}
 
-    <!-- title -->
-    <div class="level">
-      <div class="level-left">
-        <div class="level-item">
-          <div class="container">
-            <a class="title is-5" href="{{ p.url }}">{{ p.title }}</a>
-          </div>
-        </div>
+      <!-- Post title, centered on page -->
+      <div class="container" style="text-align:center">
+        <a class="title is-5" href="{{ p.url }}">{{ p.title }}</a>
+        <p class="">{{ p.date | date: "%B %-d, %Y" }}</p>
       </div>
 
-      <!-- date -->
-      <div class="level-right">
-        <div class="level-item">
-          <div class="container">
-            <p class="title is-6">{{ p.date | date: "%B %-d, %Y" }}</p>
-          </div>
-        </div>
-      </div>
-    </div>
+      <!-- Small space -->
+      <br>
 
-    <br>
   {% endfor %}
 
 </div>
 
-<!-- <hr style="width: 10%; margin: 1em auto;"> -->
+<hr style="width: 10%; margin: 1em auto;">
 
-<!-- <br> -->
+<br>
 
-<!-- <div class="container" style="text-align:center">
+<div class="container" style="text-align:center">
   <a class="title is-6 is-centered" href="/about/">About</a>
-</div> -->
+</div>
