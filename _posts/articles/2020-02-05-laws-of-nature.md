@@ -2,7 +2,7 @@
 layout: post
 title: The Laws of Nature
 author: Chris Carter
-published: true
+categories: articles
 ---
 
 No one knows anything of the world when they are born.

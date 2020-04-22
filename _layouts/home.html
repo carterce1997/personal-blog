@@ -2,27 +2,42 @@
 layout: default
 ---
 
-<div class="container">
+<div class="columns">
+  <div class="column is-two-thirds">
+    <div class="container">
 
-  {% for p in site.posts %}
+      {% for p in site.categories.articles %}
 
-      <!-- Post title, centered on page -->
-      <div class="container" style="text-align:center">
-        <a class="title is-5" href="{{ p.url }}">{{ p.title }}</a>
-        <p class="">{{ p.date | date: "%B %-d, %Y" }}</p>
-      </div>
+          <!-- Post title, centered on page -->
+          <div class="container">
+            <a class="title is-5" href="{{ p.url }}">{{ p.title }}</a>
+            <p class="">{{ p.date | date: "%B %-d, %Y" }}</p>
+          </div>
 
-      <!-- Small space -->
-      <br>
+          <!-- Small space -->
+          <br>
 
-  {% endfor %}
+      {% endfor %}
 
-</div>
+    </div>
+  </div>
 
-<hr style="width: 10%; margin: 1em auto;">
+  <div class="column">
+    <div class="container">
 
-<br>
+      {% for p in site.categories.articles %}
 
-<div class="container" style="text-align:center">
-  <a class="title is-6 is-centered" href="/about/">About</a>
+          <!-- Post title, centered on page -->
+          <div class="container">
+            <a class="title is-5" href="{{ p.url }}">{{ p.title }}</a>
+            <p class="">{{ p.date | date: "%B %-d, %Y" }}</p>
+          </div>
+
+          <!-- Small space -->
+          <br>
+
+      {% endfor %}
+
+    </div>
+  </div>
 </div>

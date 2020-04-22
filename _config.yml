@@ -3,7 +3,7 @@ title: Unapologetics
 
 auto: true
 markdown: kramdown
-permalink: /:year/:month/:day/:title
+permalink: /:categories/:year/:month/:day/:title
 
 sass:
   sass_dir: _sass
