@@ -16,4 +16,4 @@ My intention is to keep the topic of this blog broad. I contend one thing: that 
 
 <br>
 
-My name is Chris Carter, and I'm not much more than a layman with a conviction to write. I've been told that my prose is straightforward, to the point, and unapologetic. 
+My name is Chris Carter, and I'm not much more than a layman with a conviction to write. I've been told that my prose is straightforward, to the point, and unapologetic.

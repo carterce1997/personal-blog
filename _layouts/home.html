@@ -2,27 +2,49 @@
 layout: default
 ---
 
-<div class="container">
 
-  {% for p in site.posts %}
+<div class="columns">
+  <div class="column">
+    <a class="title is-5" href="/blog/">Blog</a>
 
-      <!-- Post title, centered on page -->
-      <div class="container" style="text-align:center">
-        <a class="title is-5" href="{{ p.url }}">{{ p.title }}</a>
-        <p>{{ p.date | date: "%B %-d, %Y" }}</p>
-      </div>
+    <hr>
 
-      <!-- Small space -->
-      <br>
+    {% for p in site.categories.blog limit: 4 %}
 
-  {% endfor %}
+        <!-- Post title, centered on page -->
+        <div class="container">
+          <a class="title is-6" href="{{ p.url }}">{{ p.title }}</a>
+          <p class="">{{ p.date | date: "%B %-d, %Y" }}</p>
+        </div>
 
+        <!-- Small space -->
+        <br>
+
+    {% endfor %}
+  </div>
+
+  <div class="column">
+    <a class="title is-5" href="/articles/">Articles</a>
+
+    <hr>
+
+    {% for p in site.categories.articles limit: 4 %}
+
+        <!-- Post title, centered on page -->
+        <div class="container">
+          <a class="title is-6" href="{{ p.url }}">{{ p.title }}</a>
+          <p class="">{{ p.date | date: "%B %-d, %Y" }}</p>
+        </div>
+
+        <!-- Small space -->
+        <br>
+
+    {% endfor %}
+
+  </div>
 </div>
 
-<hr style="width: 10%; margin: 1em auto;">
+
 
 <br>
-
-<div class="container" style="text-align:center">
-  <a class="title is-6 is-centered" href="/about/">About</a>
-</div>
+<br>
