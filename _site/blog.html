@@ -6,10 +6,10 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>{{ site.title }}</title>
+    <title>Unapologetics</title>
 
     <!-- Stylesheet -->
-    <link rel="stylesheet" href="{{ "/assets/css/mystyles.css" | relative_url }}">
+    <link rel="stylesheet" href="/assets/css/mystyles.css">
 
     <!-- Netlify Identity -->
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
@@ -41,7 +41,7 @@
           <nav class="level">
             <div class="level-left">
               <div class="level-item">
-                <a class="title is-3 is-white" href="/">{{ site.title }}</a>
+                <a class="title is-3 is-white" href="/">Unapologetics</a>
               </div>
             </div>
 
@@ -81,7 +81,19 @@
         <div class="column"></div>
           <!-- Center content column -->
           <div class="column is-four-fifths-mobile is-two-thirds-tablet is-half-desktop is-half-widescreen is-half-fullhd">
-            {{ content }}
+            
+
+    <!-- Post title, centered on page -->
+    <div class="container" style="text-align:center">
+      <a class="title is-6" href="/blog/2020/04/22/example">If I Were a More Cynical Man...</a>
+      <p class="">April 22, 2020</p>
+    </div>
+
+    <!-- Small space -->
+    <br>
+
+
+
           </div>
           <!-- Fillter column -->
           <div class="column"></div>

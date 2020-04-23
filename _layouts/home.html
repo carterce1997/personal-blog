@@ -2,42 +2,49 @@
 layout: default
 ---
 
+
 <div class="columns">
-  <div class="column is-two-thirds">
-    <div class="container">
+  <div class="column">
+    <a class="title is-5" href="/blog/">Blog</a>
 
-      {% for p in site.categories.articles %}
+    <hr>
 
-          <!-- Post title, centered on page -->
-          <div class="container">
-            <a class="title is-5" href="{{ p.url }}">{{ p.title }}</a>
-            <p class="">{{ p.date | date: "%B %-d, %Y" }}</p>
-          </div>
+    {% for p in site.categories.blog limit: 4 %}
 
-          <!-- Small space -->
-          <br>
+        <!-- Post title, centered on page -->
+        <div class="container">
+          <a class="title is-6" href="{{ p.url }}">{{ p.title }}</a>
+          <p class="">{{ p.date | date: "%B %-d, %Y" }}</p>
+        </div>
 
-      {% endfor %}
+        <!-- Small space -->
+        <br>
 
-    </div>
+    {% endfor %}
   </div>
 
   <div class="column">
-    <div class="container">
+    <a class="title is-5" href="/articles/">Articles</a>
 
-      {% for p in site.categories.articles %}
+    <hr>
 
-          <!-- Post title, centered on page -->
-          <div class="container">
-            <a class="title is-5" href="{{ p.url }}">{{ p.title }}</a>
-            <p class="">{{ p.date | date: "%B %-d, %Y" }}</p>
-          </div>
+    {% for p in site.categories.articles limit: 4 %}
 
-          <!-- Small space -->
-          <br>
+        <!-- Post title, centered on page -->
+        <div class="container">
+          <a class="title is-6" href="{{ p.url }}">{{ p.title }}</a>
+          <p class="">{{ p.date | date: "%B %-d, %Y" }}</p>
+        </div>
 
-      {% endfor %}
+        <!-- Small space -->
+        <br>
 
-    </div>
+    {% endfor %}
+
   </div>
 </div>
+
+
+
+<br>
+<br>
