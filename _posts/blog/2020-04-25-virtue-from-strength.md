@@ -9,4 +9,8 @@ As the nature of work has evolved throughout history, life has become increasing
 
 <br>
 
-For men, strength training fills the void created by the sedentary life. It provides them with a mission, and they strength they accumulate is a means by which they can work to complete other missions. A stronger man is more useful and more sure of himself, as the nature of the hard training has developed his mind and his body to attempt and endure difficult things.
+For men, strength training fills the void created by the sedentary life. It provides them with a mission, and the strength they accumulate is a means by which they can work to complete other missions. A stronger man is more useful and more sure of himself, as the nature of the hard training has developed his mind and his body to attempt and endure difficult things, often in the company of other guys. A lot of virtues which we expect from men, or that they expect from themselves, can be developed in them by the simple application of progressive overload. 
+
+<br>
+
+If you get a guy squatting to depth, pressing overhead, and pulling from the floor three times a week, his body will get strong, and everything else about him will become stronger too.
