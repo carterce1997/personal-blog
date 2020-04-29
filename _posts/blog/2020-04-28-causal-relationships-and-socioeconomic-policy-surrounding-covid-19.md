@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Causal Relationships and Government Hubris
+title: Causal Relationships and the Hubris of Government and Health Officials
 author: Chris Carter
 date: 2020-04-28T20:18:23.278Z
 categories: blog
