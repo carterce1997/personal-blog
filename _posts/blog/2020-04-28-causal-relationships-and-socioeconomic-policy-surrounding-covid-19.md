@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Causal Relationships and Socioeconomic Policy Surrounding COVID-19
+title: Causal Relationships and Government Hubris
 author: Chris Carter
 date: 2020-04-28T20:18:23.278Z
 categories: blog
