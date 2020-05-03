@@ -2129,6 +2129,10 @@ a.has-text-danger:hover, a.has-text-danger:focus {
     .section.is-large {
       padding: 18rem 1.5rem; } }
 
+.footer {
+  background-color: #fafafa;
+  padding: 3rem 1.5rem 6rem; }
+
 .level {
   align-items: center;
   justify-content: space-between; }

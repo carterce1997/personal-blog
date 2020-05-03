@@ -10,7 +10,7 @@ media_folder: "_assets/img" # Media files will be stored in the repo under image
 
 collections:
   - name: "articles" # Used in routes, e.g., /admin/collections/blog
-    label: "Articles" # Used in the UI
+    label: "Article" # Used in the UI
     folder: "_posts/articles/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md

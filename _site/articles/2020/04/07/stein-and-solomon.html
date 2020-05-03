@@ -2,91 +2,95 @@
 
 <html lang="en">
 
-  <head>
-    <meta charset="utf-8">
+  <head> 
+<!-- Metadata -->
+<meta charset="utf-8">
 
-    <meta name="description" content="The unapologetic ramblings of a layman.">
-    <meta name="keywords" content="Christianity,Apologetics,Philosophy,Culture">
-    <meta name="author" content="Chris Carter">
+<meta name="description" content="The unapologetic ramblings of a layman.">
+<meta name="keywords" content="Christianity,Apologetics,Philosophy,Culture">
+<meta name="author" content="Chris Carter">
 
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Unapologetics</title>
+<!-- Site title -->
+<title>Unapologetics</title>
 
-    <!-- Stylesheet -->
-    <link rel="stylesheet" href="/assets/css/mystyles.css">
+<!-- Stylesheet -->
+<link rel="stylesheet" href="/assets/css/mystyles.css">
 
-    <!-- Netlify Identity -->
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+<!-- Netlify Identity -->
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-144214802-3"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144214802-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-      gtag('config', 'UA-144214802-3');
-    </script>
+  gtag('config', 'UA-144214802-3');
+</script>
+ </head>
 
-  </head>
+  <header> 
+<br>
 
-  <header>
-    <br>
-    <div class="container">
-      <div class="columns is-mobile">
+<div class="container">
+  <div class="columns is-mobile">
 
-        <!-- Filler column -->
-        <div class="column"></div>
+    <!-- Filler column -->
+    <div class="column"></div>
 
-        <!-- Center content column -->
-        <div class="column is-four-fifths-mobile is-two-thirds-tablet is-half-desktop is-half-widescreen is-half-fullhd">
+    <!-- Center content column -->
+    <div class="column is-four-fifths-mobile is-two-thirds-tablet is-half-desktop is-half-widescreen is-half-fullhd">
 
-          <!-- Title -->
-          <nav class="level">
-            <div class="level-left">
-              <div class="level-item">
-                <a class="title is-3 is-white" href="/">Unapologetics</a>
-              </div>
-            </div>
+      <nav class="level">
 
-            <div class="level-right">
-              <div class="level-item">
-                <a class="title is-6 is-centered" href="/articles/">Articles</a>
-              </div>
-
-              <div class="level-item">
-                <a class="title is-6 is-centered" href="/blog/">Blog</a>
-              </div>
-
-              <div class="level-item">
-                <a class="title is-6 is-centered" href="/about/">About</a>
-              </div>
-            </div>
-          </nav>
+        <!-- Title -->
+        <div class="level-left">
+          <div class="level-item">
+            <a class="title is-3 is-white" href="/">Unapologetics</a>
+          </div>
         </div>
 
-        <!-- Filler column -->
-        <div class="column"></div>
-      </div>
+        <!-- Pages -->
+        <div class="level-right">
+          <div class="level-item">
+            <a class="title is-6 is-centered" href="/articles/">Articles</a>
+          </div>
+
+          <div class="level-item">
+            <a class="title is-6 is-centered" href="/blog/">Blog</a>
+          </div>
+
+          <div class="level-item">
+            <a class="title is-6 is-centered" href="/about/">About</a>
+          </div>
+        </div>
+
+      </nav>
+      
     </div>
 
-    <br>
+    <!-- Filler column -->
+    <div class="column"></div>
 
-  </header>
+  </div>
+</div>
 
-  <br>
+<br>
+<br>
+ </header>
 
-  <body>
-
-    <!-- Content, centered with gaps on either side of the page -->
-    <main>
-      <div class="columns is-mobile">
-        <!-- Filler column -->
-        <div class="column"></div>
-          <!-- Center content column -->
-          <div class="column is-four-fifths-mobile is-two-thirds-tablet is-half-desktop is-half-widescreen is-half-fullhd">
-            
+  <body> 
+<!-- Content, centered with gaps on either side of the page -->
+<main>
+  <div class="columns is-mobile">
+    <!-- Filler column -->
+    <div class="column"></div>
+      <!-- Center content column -->
+      <div class="column is-four-fifths-mobile is-two-thirds-tablet is-half-desktop is-half-widescreen is-half-fullhd">
+        
 
 <div class="container" style="text-align:center">
   <p class="title is-4">Stein's Law and Solomon’s Wisdom</p>
@@ -109,30 +113,30 @@
 
 </div>
 
-          </div>
-          <!-- Fillter column -->
-          <div class="column"></div>
-        </div>
-    </main>
+      </div>
+      <!-- Fillter column -->
+      <div class="column"></div>
+    </div>
+</main>
 
-    <!-- Netlify Indentity Admin Redirect -->
-    <script>
-      if (window.netlifyIdentity) {
-        window.netlifyIdentity.on("init", user => {
-          if (!user) {
-            window.netlifyIdentity.on("login", () => {
-              document.location.href = "/admin/";
-            });
-          }
+<!-- Netlify Indentity Admin Redirect -->
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
         });
       }
-    </script>
+    });
+  }
+</script>
+ </body>
 
-    <!-- bootstrap js -->
-    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+  <!-- <footer class="footer">
+    <div class="content">
 
-  </body>
+    </div>
+  </footer> -->
 
 </html>
