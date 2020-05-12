@@ -5,11 +5,7 @@ author: Chris Carter
 date: 2020-05-12T16:47:34.714Z
 categories: blog
 ---
-The COVID-19 government fiasco marked a critical turning point in the collective consciousness of the population of the United States and its relationship to the power and authority of government. We were once autonomous revolutionaries, who dreamed of the freedom to make our own way in life. I'm in my early 20s, my life is just beginning, and I often dream of what kind of life I would like to build for my future family. My hopes to live in a free society dwindle the more I examine my fellow citizens, a populace whose majority will gladly give up its dreams and freedoms for safeties and legislation. Additionally, I find increasingly that few share the ethic which is presented in the Biblical text, which enumerates the value of life, the dignity of man, the glory and sacredness of sexuality, the appropriate expression of it in heterosexual marriage, the importance of the family unit as the building block of society, and the overarching moral law of love and servitude for fellow man. 
-
-<br>
-
-With every news report, clear vision of the future fades further into obscurantism.
+The COVID-19 government fiasco marked a critical turning point in the collective consciousness of the population of the United States and its relationship to the power and authority of government. We were once autonomous revolutionaries, who dreamed of the freedom to make our own way in life. Now we are merely a populace, whose majority will gladly give up its dreams and freedoms for safeties and legislation. Furthermore, few share the ethic which is presented in the Biblical text, which enumerates the value of life, the dignity of man, the glory and sacredness of sexuality, the appropriate expression of it in heterosexual marriage, the importance of the family unit as the building block of society, and the overarching moral law of love and servitude for fellow man. 
 
 <br>
 
