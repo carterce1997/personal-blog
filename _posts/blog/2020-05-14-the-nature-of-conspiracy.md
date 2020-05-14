@@ -1,0 +1,8 @@
+---
+layout: post
+title: The Nature of Conspiracy
+author: Chris Carter
+date: 2020-05-14T16:12:57.840Z
+categories: blog
+---
+A recent episode of a Christian podcast that I listened to on the nature of conspiracy theories, and how they ought to be dealt with in the Christian life, was a gauntlet of strawmen. Our present situation has spawned a host of conspiracy theories as to the nature of it, some more extreme than others. No doubt you've heard them, so I find no need to enumerate any examples here, and I won't be discussing the veracity of any of them. I would like, instead, to provide a bit of a response to a pattern which I have witnessed concerning the general presentation of conspiracy theories in public discourse.
