@@ -2,56 +2,68 @@
 layout: default
 ---
 
-<div class="columns">
-  <div class="column">
-    <a class="title is-5" href="/blog/">Blog</a>
+<!-- <div class="columns"> -->
+  <!-- <div class="column"> -->
+    <!-- <a class="title is-5" href="/blog/">Blog</a> -->
 
-    <hr>
+    <!-- <hr> -->
 
-    {% for p in site.categories.blog limit: 5 %}
+<div class="columns is-centered is-multiline is-mobile">
 
+      {% for p in site.categories.blog limit: 10 %}
+
+ <!-- is-four-fifths-mobile is-two-thirds-tablet is-half-desktop is-half-widescreen is -->
         <!-- Post title, centered on page -->
-        <div class="card">
-          {% if p.image %}
-            <div class="card-image">
-              <figure class="image">
-                <img src="{{ p.image }}">
-              </figure>
+        <div class="column is-one-third-desktop is-half-tablet is-four-fifths-mobile">
+          <div class="card">
+            {% if p.image %}
+              <div class="card-image">
+                <figure class="image is-3by2">
+                  <img src="{{ p.image }}">
+                </figure>
+              </div>
+            {% endif %}
+
+            <div class="card-content">
+              <a class="title is-6" href="{{ p.url }}">{{ p.title }}</a>
+              <p class="">{{ p.date | date: "%B %-d, %Y" }}</p>
+
+              {% unless p.image %}
+                <p class="">{{ p.content | strip_html | truncatewords: 30  }}</p>
+              {% endunless %}
             </div>
-          {% endif %}
 
-          <div class="card-content">
-            <a class="title is-6" href="{{ p.url }}">{{ p.title }}</a>
-            <p class="">{{ p.date | date: "%B %-d, %Y" }}</p>
-          </div>
-        </div
+          </div
 
-        <!-- Small space -->
-        <br>
-
-    {% endfor %}
-  </div>
-
-  <div class="column">
-    <a class="title is-5" href="/articles/">Articles</a>
-
-    <hr>
-
-    {% for p in site.categories.articles limit: 4 %}
-
-        <!-- Post title, centered on page -->
-        <div class="container">
-          <a class="title is-6" href="{{ p.url }}">{{ p.title }}</a>
-          <p class="">{{ p.date | date: "%B %-d, %Y" }}</p>
+          <!-- Small space -->
+          <br>
         </div>
 
-        <!-- Small space -->
-        <br>
-
     {% endfor %}
 
   </div>
-</div>
+  <!-- </div> -->
+
+  <!-- <div class="column"> -->
+    <!-- <a class="title is-5" href="/articles/">Articles</a> -->
+
+    <!-- <hr> -->
+
+    <!-- {% for p in site.categories.articles limit: 4 %} -->
+
+        <!-- Post title, centered on page -->
+        <!-- <div class="container"> -->
+          <!-- <a class="title is-6" href="{{ p.url }}">{{ p.title }}</a> -->
+          <!-- <p class="">{{ p.date | date: "%B %-d, %Y" }}</p> -->
+        <!-- </div> -->
+
+        <!-- Small space -->
+        <!-- <br> -->
+
+    <!-- {% endfor %} -->
+
+  <!-- </div> -->
+<!-- </div> -->
 
 
 

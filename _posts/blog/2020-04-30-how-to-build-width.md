@@ -3,7 +3,7 @@ layout: post
 title: How to Build Width
 author: Chris Carter
 date: 2020-04-30T17:18:09.304Z
-image: /assets/img/squat.JPG
+image: https://bulma.io/images/placeholders/1280x960.png
 categories: blog
 ---
 *I'm mostly directing this post towards guys.*
@@ -18,7 +18,7 @@ I set up the new "blog" section on this website to give myself a little more fre
 
 <br>
 
-I've been lifting weights for about four years of my life in a relatively serious manner. Bodybuilders and bodybuilding never did it for me. I'm not interested in carrying around big foamy muscles; I wanted to be strong. The guys I admired the most were old-school Olympic weightlifters: Bill Starr, Tom Suggs, Bill March, and the likes of guys who dedicated themselves to years of building the size and strength necessary to do big snatches, cleans, pulls, presses, and squats. 
+I've been lifting weights for about four years of my life in a relatively serious manner. Bodybuilders and bodybuilding never did it for me. I'm not interested in carrying around big foamy muscles; I wanted to be strong. The guys I admired the most were old-school Olympic weightlifters: Bill Starr, Tom Suggs, Bill March, and the likes of guys who dedicated themselves to years of building the size and strength necessary to do big snatches, cleans, pulls, presses, and squats.
 
 <br>
 
@@ -26,7 +26,7 @@ As men age through their 20s and into their 30s, they seem to tend to widen and 
 
 <br>
 
-One of the things that tends to make men look thin are slouched and skinny shoulders. Working on your posture by doing heavy deadlifts with a straight back will build your lats, traps, rhomboids, and erectors, all of which work to pull your chest up and your shoulders back. Skinny shoulders can be fixed by frequently pressing on a bench and, more importantly, pressing overhead from a standing position. These exercises add mass to the shoulders and chest, and this mass combined with the postural corrections provided by the deadlift make the overall appearance of the upper body look bigger. 
+One of the things that tends to make men look thin are slouched and skinny shoulders. Working on your posture by doing heavy deadlifts with a straight back will build your lats, traps, rhomboids, and erectors, all of which work to pull your chest up and your shoulders back. Skinny shoulders can be fixed by frequently pressing on a bench and, more importantly, pressing overhead from a standing position. These exercises add mass to the shoulders and chest, and this mass combined with the postural corrections provided by the deadlift make the overall appearance of the upper body look bigger.
 
 <br>
 
@@ -34,7 +34,7 @@ By far though, the best way to build a whole lot of mass on the body is by doing
 
 <br>
 
-Other things, like wide grip chin-ups, shouls be included in the routine, as they hit the lats and work the biceps a little bit too. The biceps aren't terribly useful muscles, but small biceps tend to look silly on a big guy, so we might as well try to make them grow as well. Other details, like bracing your belly during heavy squats and deadlifts, will develop the abs all around the midsection, and keep your waist and belly from looking too skinny to be pragmatic. 
+Other things, like wide grip chin-ups, shouls be included in the routine, as they hit the lats and work the biceps a little bit too. The biceps aren't terribly useful muscles, but small biceps tend to look silly on a big guy, so we might as well try to make them grow as well. Other details, like bracing your belly during heavy squats and deadlifts, will develop the abs all around the midsection, and keep your waist and belly from looking too skinny to be pragmatic.
 
 <br>
 

@@ -1,23 +1,24 @@
 ---
 layout: post
-title: Scope Creep, and the Aforementioned Increasingly Ridiculous Fiasco
+title: Scope Creep
 author: Chris Carter
 date: 2020-05-15T14:05:37.575Z
 categories: blog
+image: https://bulma.io/images/placeholders/1280x960.png
 ---
-I suspected months ago that Cuomo would extend the shutdown in New York State for at least another two weeks when we reached the May 15 deadline, regardless of the new evidence we have surrounding the epidemiological characteristics of COVID-19. I'm sad to say that I was right, and my prediction is that in the short-term we will have to be dealing with social distancing for months or years, and long-term life as we know it won't return to a state of normalcy for another couple of years or decades. 
+I suspected months ago that Cuomo would extend the shutdown in New York State for at least another two weeks when we reached the May 15 deadline, regardless of the new evidence we have surrounding the epidemiological characteristics of COVID-19. I'm sad to say that I was right, and my prediction is that in the short-term we will have to be dealing with social distancing for months or years, and long-term life as we know it won't return to a state of normalcy for another couple of years or decades.
 
 <br>
 
-Let's be vulnerable for a second. I can count the people I truly trust on one hand, and the rest I assume are, at best, ambivalent to caring about me and the people I love, and at worse, downright opposed to the flourishing of anyone but themselves. You are my enemy before you are my friend, especially if you occupy a position of authority, and if you are sufficiently intelligent and powerful, I infer your motives from your actions. 
+Let's be vulnerable for a second. I can count the people I truly trust on one hand, and the rest I assume are, at best, ambivalent to caring about me and the people I love, and at worse, downright opposed to the flourishing of anyone but themselves. You are my enemy before you are my friend, especially if you occupy a position of authority, and if you are sufficiently intelligent and powerful, I infer your motives from your actions.
 
 <br>
 
-This whole initiative began as a way to mitigate a disease which was thought to be deadly and moderately contagious. Antibody testing and other studies have shown that the disease is orders of magnitude less deadly and far more contagious than we thought. This now renders social distancing and economic shutdown useless in stopping the disease, and in fact, means that they always *were* useless in stopping the disease. New York State even admitted during one of its own press conferences that most people who contracted the disease were carefully practicing social distancing and complying with the guidelines not to travel. Because of this, I am convinced that we have been shut down for two months for nothing. Businesses closed for nothing, churches closed for nothing, and people lost jobs for nothing. We ought instead to have isolated and quarantined the sick, and recommended that the at-risk remain at home. 
+This whole initiative began as a way to mitigate a disease which was thought to be deadly and moderately contagious. Antibody testing and other studies have shown that the disease is orders of magnitude less deadly and far more contagious than we thought. This now renders social distancing and economic shutdown useless in stopping the disease, and in fact, means that they always *were* useless in stopping the disease. New York State even admitted during one of its own press conferences that most people who contracted the disease were carefully practicing social distancing and complying with the guidelines not to travel. Because of this, I am convinced that we have been shut down for two months for nothing. Businesses closed for nothing, churches closed for nothing, and people lost jobs for nothing. We ought instead to have isolated and quarantined the sick, and recommended that the at-risk remain at home.
 
 <br>
 
-Instead of admitting that the current measures aren't working, Governor Cuomo and health officials chose to extend the shutdown for another two weeks, and retain emergency powers for another month (emergency powers, under NYS executive code, basically mean that the governor has the power to overturn any state or local ordinance). There is no scientific or democratic backing for this order. 
+Instead of admitting that the current measures aren't working, Governor Cuomo and health officials chose to extend the shutdown for another two weeks, and retain emergency powers for another month (emergency powers, under NYS executive code, basically mean that the governor has the power to overturn any state or local ordinance). There is no scientific or democratic backing for this order.
 
 <br>
 
