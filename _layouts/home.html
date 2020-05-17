@@ -3,11 +3,11 @@ layout: default
 ---
 
 
-<div class="columns">
-  <div class="column">
-    <a class="title is-5" href="/blog/">Blog</a>
+<!-- <div class="columns"> -->
+  <!-- <div class="column"> -->
+    <!-- <a class="title is-5" href="/blog/">Blog</a> -->
 
-    <hr>
+    <!-- <hr> -->
 
     {% for p in site.categories.blog limit: 5 %}
 
@@ -21,28 +21,28 @@ layout: default
         <br>
 
     {% endfor %}
-  </div>
+  <!-- </div> -->
 
-  <div class="column">
-    <a class="title is-5" href="/articles/">Articles</a>
+  <!-- <div class="column"> -->
+    <!-- <a class="title is-5" href="/articles/">Articles</a> -->
 
-    <hr>
+    <!-- <hr> -->
 
-    {% for p in site.categories.articles limit: 5 %}
+    <!-- {% for p in site.categories.articles limit: 5 %} -->
 
         <!-- Post title, centered on page -->
-        <div class="container">
-          <a class="title is-6" href="{{ p.url }}">{{ p.title }}</a>
-          <p class="">{{ p.date | date: "%B %-d, %Y" }}</p>
-        </div>
+        <!-- <div class="container"> -->
+          <!-- <a class="title is-6" href="{{ p.url }}">{{ p.title }}</a> -->
+          <!-- <p class="">{{ p.date | date: "%B %-d, %Y" }}</p> -->
+        <!-- </div> -->
 
         <!-- Small space -->
-        <br>
+        <!-- <br> -->
 
-    {% endfor %}
+    <!-- {% endfor %} -->
 
-  </div>
-</div>
+  <!-- </div> -->
+<!-- </div> -->
 
 
 
