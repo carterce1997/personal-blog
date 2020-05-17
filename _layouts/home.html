@@ -2,20 +2,29 @@
 layout: default
 ---
 
-
 <div class="columns">
   <div class="column">
     <a class="title is-5" href="/blog/">Blog</a>
 
     <hr>
 
-    {% for p in site.categories.blog limit: 4 %}
+    {% for p in site.categories.blog limit: 5 %}
 
         <!-- Post title, centered on page -->
-        <div class="container">
-          <a class="title is-6" href="{{ p.url }}">{{ p.title }}</a>
-          <p class="">{{ p.date | date: "%B %-d, %Y" }}</p>
-        </div>
+        <div class="card">
+          {% if p.image %}
+            <div class="card-image">
+              <figure class="image">
+                <img src="{{ p.image }}">
+              </figure>
+            </div>
+          {% endif %}
+
+          <div class="card-content">
+            <a class="title is-6" href="{{ p.url }}">{{ p.title }}</a>
+            <p class="">{{ p.date | date: "%B %-d, %Y" }}</p>
+          </div>
+        </div
 
         <!-- Small space -->
         <br>

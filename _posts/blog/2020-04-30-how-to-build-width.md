@@ -3,6 +3,7 @@ layout: post
 title: How to Build Width
 author: Chris Carter
 date: 2020-04-30T17:18:09.304Z
+image: /assets/img/squat.JPG
 categories: blog
 ---
 *I'm mostly directing this post towards guys.*
