@@ -10,7 +10,7 @@ layout: default
   {% for p in site.categories.blog limit: 3 %}
 
       <div class="columns">
-        {% if p.image %}
+        {% if p.image and p.image != '' %}
           <div class="column is-one-third">
             <figure class = "figure">
               <img src="{{ p.image }}" alt="">
@@ -45,7 +45,7 @@ layout: default
   {% for p in site.categories.articles limit: 3 %}
 
     <div class="columns">
-      {% if p.image %}
+      {% if p.image and p.image != '' %}
         <div class="column is-one-third">
           <figure class = "figure">
             <img src="{{ p.image }}" alt="">
