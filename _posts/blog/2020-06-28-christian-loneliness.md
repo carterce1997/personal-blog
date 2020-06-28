@@ -1,4 +1,5 @@
 ---
+layout: post
 title: On Loneliness
 author: Chris Carter
 date: 2020-06-28T13:58:43.199Z
