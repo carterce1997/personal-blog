@@ -3,11 +3,11 @@ layout: default
 ---
 
 <section class="section">
-  <a class="title is-5" href="/blog/">Blog Posts</a>
+  <!-- <a class="title is-5" href="/blog/">Blog Posts</a>
 
-  <hr>
+  <hr> -->
 
-  {% for p in site.categories.blog limit: 5 %}
+  {% for p in site.categories.blog limit: 3 %}
 
       <div class="columns">
         {% if p.image and p.image != '' %}
