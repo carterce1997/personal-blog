@@ -4,18 +4,23 @@ layout: default
 
 <br>
 
-{% for p in site.categories.blog limit: 3 %}
+{% for p in site.categories.blog limit: 4 %}
 
     <div class="columns">
+
       {% if p.image and p.image != '' %}
+
         <div class="column is-one-third">
           <figure class = "figure">
             <img src="{{ p.image }}" alt="">
           </figure>
         </div>
+
       {% endif %}
 
+
       <div class="column">
+
         <!-- Post title, centered on page -->
         <div class="container">
           <a class="title is-5" href="{{ p.url }}">{{ p.title }}</a>
@@ -23,7 +28,9 @@ layout: default
           <br>
           <p>{{ p.content | strip_html | strip_newlines | truncate: 200 }}</p>
         </div>
+
       </div>
+
     </div>
 
     <!-- Small space -->
