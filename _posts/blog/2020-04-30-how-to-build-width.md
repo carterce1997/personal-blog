@@ -3,7 +3,7 @@ layout: post
 title: How to Build Width
 author: Chris Carter
 date: 2020-04-30T17:18:09.304Z
-image: https://bulma.io/images/placeholders/1280x960.png
+image: ''
 categories: blog
 ---
 *I'm mostly directing this post towards guys.*
