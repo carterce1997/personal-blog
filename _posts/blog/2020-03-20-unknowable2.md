@@ -3,7 +3,7 @@ layout: post
 title: Unknowable
 author: Chris Carter
 published: false
-categories: articles
+categories: blog
 ---
 
 Ever since I was a little boy, the workings of the world have intrigued and fascinated me. I was an observant and contemplative child, and often found myself pondering the way that things worked. Growing up on a small farm in rural Vermont left me with little else to do. I would often go explore the small creek in front of the house to observe and manipulate the dynamics of the water, or I would ponder the physical and chemical explanation for the color and shape of the flames of a campfire. Or, I might just watch the clouds and measure the wind, and dwell on why certain weather systems never seemed to reach the house from certain directions, or why the wind always blew in a regular direction at certain time of day during a certain season. I was a curious boy, and I’m still very curious as a man; I often add cream to my hot coffee without stirring it, just to watch how the cream dances and swirls to the unheard music of convection and fluid mechanics.

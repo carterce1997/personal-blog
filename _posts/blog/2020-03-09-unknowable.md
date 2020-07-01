@@ -3,7 +3,7 @@ layout: post
 title: The Unknowable
 author: Chris Carter
 published: false
-categories: articles
+categories: blog
 ---
 
 _"But deep in the darkness is God..." ~ Rilke_
