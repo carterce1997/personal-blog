@@ -7,7 +7,7 @@ layout: default
 
   <hr>
 
-  {% for p in site.categories.blog limit: 3 %}
+  {% for p in site.categories.blog limit: 5 %}
 
       <div class="columns">
         {% if p.image and p.image != '' %}
@@ -34,38 +34,4 @@ layout: default
 
   {% endfor %}
 
-</section>
-
-
-<section class="section">
-  <a class="title is-5" href="/articles/">Articles</a>
-
-  <hr>
-
-  {% for p in site.categories.articles limit: 3 %}
-
-    <div class="columns">
-      {% if p.image and p.image != '' %}
-        <div class="column is-one-third">
-          <figure class = "figure">
-            <img src="{{ p.image }}" alt="">
-          </figure>
-        </div>
-      {% endif %}
-
-      <div class="column">
-        <!-- Post title, centered on page -->
-        <div class="container">
-          <a class="title is-5" href="{{ p.url }}">{{ p.title }}</a>
-          <p>{{ p.date | date: "%B %-d, %Y" }}</p>
-          <br>
-          <p>{{ p.content | strip_html | strip_newlines | truncate: 200 }}</p>
-        </div>
-      </div>
-    </div>
-
-    <!-- Small space -->
-    <br>
-
-  {% endfor %}
 </section>
