@@ -1,12 +1,10 @@
 ---
-title: Repentance
+title: On Repentance
 author: Chris Carter
 date: 2020-07-01T13:42:27.980Z
 categories: blog
 ---
 It is impossible to talk about repentance without talking about sin.
-
-And it it gravely, gravely important that we understand what sin is. 
 
 And what is sin, but worshiping ourselves, and aligning our whole life with our own selfish interests? I assure you, we are corrupted to the bone to serve our own desires, enslaved to forever shake our fist at the Heavens and curse the God who created us! We who sin, all of us, proclaim in every facet of our lives our utter contempt and enmity with God, who formed and designed us so that we would enjoy Him forever! Do we not spit in His face by our cowardice, or our lying, or our sexual promiscuity, or our self-serving, or our anger, or our violence, or our murder, or our apathy? Have we not, collectively, warranted every single one of the trials and sufferings that we have experienced? It's a peculiar thing, that God has not swung the gates of Hell wide open to swallow the whole Earth, and to rid the Universe of the humanity which poisoned His good Creation! Be convinced of this: He may do so at any moment! Our good deeds and our works of righteousness are not from us, they are His alone; that when God delights in the good deeds of men, He delights in His goodness through them, and takes no pleasure in the wretched proxies of the men He works through. Abandon all hope that your good works will merit to you the kindness of God, in the same way that a dish must be cleaned inside as well as outside. I concur with Mr. Edwards, that human beings are but thinly veiled from the righteous wrath of God by His great and gentle benevolence; God is kind, He is tolerant, even towards the most heinous sins of humanity, as He stores up wrath for the day of judgement, that all at once the weight of His judgement may fall upon the human race like a great hailstorm of fire, so that even the kings of the earth will long for the mountains themselves to fall upon them, and to hide them from the face of a God whose tolerance has run out. We have greeted our benevolent Father with an open hand strike, and disowned Him, and taken our inheritance early, and gone to a far away land to squander His wealth with all manner of rebellion, waste, and promiscuity. 
 
