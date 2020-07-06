@@ -9,4 +9,6 @@ categories: blog
 
 Obviously we must take care of ourselves in some capacity. Those who don't eat correctly, sleep well, stay in shape, balance their checkbook, or keep their mind in order, become weak, tired, indebted, and ineffective, rendering themselves useless instruments of care to others. Parents who do not take care of themselves place their children at greater risk, as do employers whose self-neglect creates instability in the lives of their employees, as does everyone from the most powerful CEOs and politicians, to humble pastors, family members, and friends. One of the ways in which we can care for others is simply by being steady, capable people, who can be there at the right time and in the right condition for whatever the circumstances require. For most of us, that means eating well, getting enough rest, committing to some form of exercise, and stimulating our minds with new ideas and healthy relationships. Rather than doing these things for their own sake, we do them so that we will have the ability to work hard, aspire to our callings, and subsequently give our friends and families better lives. What, then, is the line? How much of our energy are we supposed to self-preservation?
 
-About as much as Jesus did.
+About as much as Jesus did. 
+
+The life of Jesus written down in the books of Matthew, Mark, Luke, and John.
