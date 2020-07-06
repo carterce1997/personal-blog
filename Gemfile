@@ -10,6 +10,6 @@ gem "jekyll", "~> 4.0"
 
 gem "kramdown", "~> 2.1"
 
-# group :jekyll_plugins do
-#   gem "jekyll-admin", "~> 0.10.1"
-# end
+group :jekyll_plugins do
+  gem "jekyll-admin", "~> 0.10.1"
+end
