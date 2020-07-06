@@ -2,7 +2,7 @@
 layout: default
 ---
 
-
+<!-- Post -->
 {% if page.image %}
   <div class="container">
     <img src="{{ page.image }}" alt="{{ page.caption }}">
@@ -21,6 +21,41 @@ layout: default
 
 <br>
 
-<div class="post-content">
+<div class="container">
   {{ content }}
+</div>
+
+<hr>
+
+<!-- Paginator -->
+<div class="columns is-mobile">
+
+  <div class="column">
+    {% if page.previous.url %}
+      <!-- <p class="title is-4">Previous Post</p> -->
+      <div class="container">
+        <a href="{{ page.previous.url | prepend: site.baseurl }}">
+          <p class="title is-5">
+            {{ page.previous.title }}
+          </p>
+        </a>
+        <p class="subtitle is-6">{{ page.previous.date | date: "%B %-d, %Y" }}</p>
+      </div>
+    {% endif %}
+  </div>
+
+  <div class="column">
+    {% if page.next.url %}
+      <!-- <p class="title is-4">Next Post</p> -->
+      <div class="container" style="text-align:right">
+        <a href="{{ page.next.url | prepend: site.baseurl }}">
+          <p class="title is-5">
+            {{ page.next.title }}
+          </p>
+        </a>
+        <p class="subtitle is-6">{{ page.next.date | date: "%B %-d, %Y" }}</p>
+      </div>
+    {% endif %}
+  </div>
+
 </div>
