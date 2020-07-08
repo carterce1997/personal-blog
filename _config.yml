@@ -7,6 +7,3 @@ permalink: /:categories/:year/:month/:day/:title
 
 sass:
   sass_dir: _sass
-
-pagination:
-  category: 'blog'
