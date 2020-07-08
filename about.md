@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+
 Unapologetics: a play on the word _unapologetic_, meaning put forth without qualification, and the word _apologetics_, based on the Greek _apologia_, meaning a systematic argumentative discourse in defense of an idea.
 
 <br>
