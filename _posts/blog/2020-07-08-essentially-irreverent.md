@@ -2,6 +2,7 @@
 layout: post
 title: Essentially Irreverent
 author: Chris Carter
+categories: blog
 ---
 
 Ironically, it is in the book of Jonah where we get a glimpse of what widespread repentance looks like. Jonah was tasked by God to deliver a warning of God's judgement against Ninevah, a wicked city. Upon reluctantly delivering his brief message concerning their impending destruction, Jonah witnessed the entire city of wicked men and women cry out to God, and don themselves with sackcloth and ashes in brokenhearted repentance. God, upon seeing their repentance, relented from the destruction of the city.
