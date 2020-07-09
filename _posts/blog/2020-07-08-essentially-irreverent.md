@@ -2,17 +2,14 @@
 layout: post
 title: Essentially Irreverent
 author: Chris Carter
+published: false
 ---
 
-Oddly, we get a peek at the behavior we would expect from a repentant nation in the book of Jonah. Ninevah was a wicked city, and Jonah, upon reluctantly delivering a prophecy from God to them concerning their impending destruction, witnesses the entire city of wicked men and women don themselves with sackcloth and ashes in brokenhearted repentance. God, upon seeing their repentance, relents from the destruction of the city. To be sure, the story of Jonah is about much more than the repentance of Ninevah, but this story, and others in the Bible, document similar scenarios in which impending destruction looms upon the horizon, as a means of drawing people and nations to repentance.
+Ironically, it is in the book of Jonah where we get a glimpse of what widespread repentance looks like. Jonah was tasked by God to deliver a warning of God's judgement against Ninevah, a wicked city. Upon reluctantly delivering his brief message concerning their impending destruction, Jonah witnessed the entire city of wicked men and women cry out to God, and don themselves with sackcloth and ashes in brokenhearted repentance. God, upon seeing their repentance, relented from the destruction of the city.
 
 <br>
 
-If the United States was a Christian nation, then we, as a nation, would have been compelled to our knees in repentance for our vile and Godless deeds at the first report of the impending pandemic. Lord knows our sexual promiscuity, our celebration of homosexuality and transgenderism, our systemic murder of unborn children, and the prolific irreverence and deception which has entered our churches through lukewarm and false teachers have warranted us a punishment far worse than COVID-19. Indeed, such wrath is being stored up for the Day of Judgment. Instead, in our pride, we abandoned hope that God would be gracious to repentant souls, and we declared the weekly gathering of believers to worship the Almighty Creator of the Universe to be a "non essential" service. Even as states are "allowing" believers to return to worship, singing is still yet a prohibited activity.
-
-<br>
-
-That is how little the United States hopes in God.
+If the United States were a Christian nation, we would have been compelled to our knees in repentance for our vile and Godless deeds at the first report of the impending pandemic. Lord knows our sexual promiscuity, our celebration of homosexuality and transgenderism, our systemic murder of unborn children, and our irreverence and deception which we proliferate in our policies and our churches through lukewarm and false teachers have warranted us a punishment far worse than COVID-19. Indeed, such wrath is being stored up for the Day of Judgment. Instead, we abandoned hope that God would be gracious to repentant souls, and we declared the weekly gathering of believers to worship the Almighty Creator of the Universe to be a "non essential" service. Even as states are "allowing" believers to return to worship, singing praises to God is still a prohibited activity. Worse still, many churches were okay with shutting their doors for the purpose of mitigating the spread of the disease. That is how little we hope in God: that we would trade
 
 <br>
 
