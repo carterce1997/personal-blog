@@ -1,0 +1,23 @@
+---
+layout: post
+title: Essentially Irreverent
+author: Chris Carter
+---
+
+Oddly, we get a peek at the behavior we would expect from a repentant nation in the book of Jonah. Ninevah was a wicked city, and Jonah, upon reluctantly delivering a prophecy from God to them concerning their impending destruction, witnesses the entire city of wicked men and women don themselves with sackcloth and ashes in brokenhearted repentance. God, upon seeing their repentance, relents from the destruction of the city. To be sure, the story of Jonah is about much more than the repentance of Ninevah, but this story, and others in the Bible, document similar scenarios in which impending destruction looms upon the horizon, as a means of drawing people and nations to repentance.
+
+<br>
+
+If the United States was a Christian nation, then we, as a nation, would have been compelled to our knees in repentance for our vile and Godless deeds at the first report of the impending pandemic. Lord knows our sexual promiscuity, our celebration of homosexuality and transgenderism, our systemic murder of unborn children, and the prolific irreverence and deception which has entered our churches through lukewarm and false teachers have warranted us a punishment far worse than COVID-19. Indeed, such wrath is being stored up for the Day of Judgment. Instead, in our pride, we abandoned hope that God would be gracious to repentant souls, and we declared the weekly gathering of believers to worship the Almighty Creator of the Universe to be a "non essential" service. Even as states are "allowing" believers to return to worship, singing is still yet a prohibited activity.
+
+<br>
+
+That is how little the United States hopes in God.
+
+<br>
+
+In the book of Hebrews, chapter 10, believers are admonished to not forsake gathering together to edify and encourage one another in the worship of God, not as a matter of Christian living, but as a direct logical consequence of the greatness of God in Christ. One of the ways which we testify to ourselves, and to others, and to the world, the unfathomable greatness of God in Christ is by gathering together to lift our voices in prayer, in preaching, and in praise. We do this, in keeping with the tradition set forth by our Lord Himself, who gathered with His followers to break bread, fellowship, weep, pray, and join together in psalms, hymns, and spiritual songs. By these things, we proclaim that God is able to save us from our sin, and from every calamity which could befall us.
+
+<br>
+
+Repent, my nation, and repent, my brothers and sisters; gather together to weep, and to turn to God in sackcloth, ashes, and praise.
