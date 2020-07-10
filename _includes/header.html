@@ -19,7 +19,7 @@
           </div>
 
           <div class="container">
-            <p class="subtitle is-6">Proclamations of a layman.</p>
+            <p class="subtitle is-6">{{ site.tagline }}</p>
           </div>
         </div>
 
@@ -33,9 +33,11 @@
 
       <div id="navbarBasicExample" class="navbar-menu">
         <div class="navbar-end">
-          <a class="navbar-item" href="/archive/">Archive</a>
-          <a class="navbar-item" href="/about/">About</a>
-          <a class="navbar-item" href="/contact/">Contact</a>
+          {% for page in site.data.pages %}
+          <a class="navbar-item" href="{{ page.permalink }}">{{ page.name }}</a>
+
+
+          {% endfor %}
         </div>
       </div>
 

@@ -1,0 +1,9 @@
+
+- name: archive
+  permalink: /archive/
+
+- name: about
+  permalink: /about/
+
+- name: contact
+  permalink: /contact/
