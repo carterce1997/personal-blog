@@ -1,9 +1,13 @@
 
 - name: archive
-  permalink: /archive/
+  link: /archive/
 
 - name: about
-  permalink: /about/
+  link: /about/
 
 - name: contact
-  permalink: /contact/
+  link: /contact/
+
+- name: patreon
+  link: https://www.patreon.com/chrisevancarter?fan_landing=true
+  external: true

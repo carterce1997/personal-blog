@@ -34,9 +34,11 @@
       <div id="navbarBasicExample" class="navbar-menu">
         <div class="navbar-end">
           {% for page in site.data.pages %}
-          <a class="navbar-item" href="{{ page.permalink }}">{{ page.name }}</a>
-
-
+            {% if page.external %}
+              <a class="navbar-item" target="_blank" href="{{ page.link }}">{{ page.name }}</a>
+            {% else %}
+              <a class="navbar-item" href="{{ page.link }}">{{ page.name }}</a>
+            {% endif %}
           {% endfor %}
         </div>
       </div>
