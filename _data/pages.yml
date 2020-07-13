@@ -1,13 +1,13 @@
 
-- name: archive
+- name: Archive
   link: /archive/
 
-- name: about
+- name: About
   link: /about/
 
-- name: contact
+- name: Contact
   link: /contact/
 
-- name: patreon
+- name: Patreon
   link: https://www.patreon.com/chrisevancarter?fan_landing=true
   external: true
