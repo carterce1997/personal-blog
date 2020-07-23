@@ -11,3 +11,7 @@
 - name: Patreon
   link: https://www.patreon.com/chrisevancarter?fan_landing=true
   external: true
+
+- name: COVID-19
+  link: https://christophercarter.shinyapps.io/coronavirus/
+  external: true
