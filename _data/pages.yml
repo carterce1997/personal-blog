@@ -15,3 +15,7 @@
 - name: COVID-19
   link: https://christophercarter.shinyapps.io/coronavirus/
   external: true
+
+- name: Applied Theoretics
+  link: https://someappliedtheoretics.com/
+  external: true
