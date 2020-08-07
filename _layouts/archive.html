@@ -18,13 +18,9 @@ layout: default
         <div class="container">
           <a class="title is-5" href="{{ p.url }}">{{ p.title }}</a>
           <p>{{ p.date | date: "%B %-d, %Y" }}</p>
-          <br>
           <p>{{ p.content | strip_html | strip_newlines | truncate: 200 }}</p>
         </div>
       </div>
     </div>
-
-    <!-- Small space -->
-    <br>
 
 {% endfor %}
