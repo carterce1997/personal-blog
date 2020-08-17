@@ -4,6 +4,7 @@ title: Causal Relationships, the COVID-19 Government Fiasco, and Making a Mounta
 author: Chris Carter
 date: 2020-04-28T20:18:23.278Z
 categories: blog
+tags: science, politics
 ---
 
 Federal and state health officials claim there exists a causal relationship between taking distancing measures, like economic shutdown, and the mitigation of the spread of infectious disease. They won't use the words "causal relationship" outright, but their adamancy that officials force the adoption of these distancing policies is indicative that they believe very strongly that "if we do social distancing, then COVID-19 will be mitigated".

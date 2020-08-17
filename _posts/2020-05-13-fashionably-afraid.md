@@ -3,6 +3,7 @@ layout: post
 title: Fashionably Afraid
 author: Chris Carter
 categories: blog
+tags: politics
 ---
 The media surrounding COVID-19 has been, I would estimate, the single largest propaganda campaign in the history of the United States. It seems no matter where you look, there is another feed, another article, or another journalist proclaiming the inevitable slide of the nation into untold pain and suffering due to contagious infection. This is a narrative which runs contrary to what can be reasonably inferred from the data, a topic which I examined in detail in a previous blog post [here](https://chrisevancarter.com/blog/2020/04/28/causal-relationships).
 

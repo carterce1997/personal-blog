@@ -3,6 +3,7 @@ layout: post
 title: The Laws of Nature
 author: Chris Carter
 categories: blog
+tags: philosophy, theology
 ---
 
 No one knows anything of the world when they are born.
