@@ -5,10 +5,11 @@
 // Import a Google Font
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
 @import url('https://fonts.googleapis.com/css?family=PT+Serif:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
 
 // Update Bulma's global variables
 $family-sans-serif: "Open Sans", sans-serif;
-$family-serif: "PT Serif", serif;
+$family-serif: "Merriweather", serif;
 
 $family-primary: $family-sans-serif;
 $title-family: $family-serif;

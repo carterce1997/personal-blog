@@ -1,0 +1,25 @@
+---
+layout: post
+author: Chris Carter
+title: Briefly, On Worship
+categories: blog
+tags: theology
+---
+
+One day towards the end of my junior year of college, I took some time in between classes to run some errands I had been putting off. I went, as I normally did at the end of a semester, to the UPS store to return the textbooks I had rented for the semester's academic affairs. While I was waiting for my books to be processed by the woman behind the counter, I struck up a conversation with an old fellow behind me. At some point the conversation turned from what I did ("well, I study math at Clarkson") and what my aspirations were ("honestly I'm just looking forward to graduation"), to a bit of ecclesiological storytelling, as older men often like to impart of bit of passing wisdom off to younger men. I think it helps them to feel young again, and Lord knows we need all the wisdom we can get. "I was in the Navy for a time", he began, as a preamble to the stories he subsequently told me of all the places he lived and the things that he did. "And through it all, I've always considered my life to be an adventure."
+
+
+
+Eventually I had to pay the woman behind the counter and leave, and I was a bit disappointed to have the meeting adjourned by the completion of what I thought was going to be a mundane errand. I wished the old man a good day, and he wished me a good life. Experiences like that are a refreshing contextualization of daily living into the whole of everything else. The usual is never usual in the grand scheme of things. I took a few minutes in my car to imagine the life I would live, before I got back to campus and had to start preparing for my exam on computer algorithms. My life did not feel like an adventure in the slightest. More often than not, the worries of life drag me into the chaos of the world, and I feel myself scrambling to find stability, too busy with looking for some means of establishing myself than focusing on who I ought to be, or what I ought to do.
+
+
+
+Within everything there is great imminence. Life is a perpetual flux, and every experience of joy and every sorrow are tinged with the opposite emotion, since all things must end in a similar manner to the way they began. To hope that a temporal thing will last forever is to ensure the eventual deference of that hope, and the heartsickness that will necessarily ensue. In spite of knowing this from experience, it is the natural tendency of mankind to search for a reality beyond the transience of life that he can anchor his heart on. The heart is a frantic thing, so desperate to attach itself to something transcendent, as it was designed to do, but it almost invariably binds itself to something profoundly inferior to what it really needs. Historically the heart has attached itself to any number of things, some as enslaving as political ideology, or as corrupt as power, or as empty as achievement, or as fragile as property, or as deceptive as true love, or as uncertain as future prosperity. It is not that these things should _always_ be qualified this way, for we understand that no thing is inherently evil in and of itself. Rather, these things buckle under the load of worship that we impose upon them; the anchor of the heart is too heavy for them to bear. Undying hope and reliance is a burden they were not designed to carry. Nothing in the whole created world is so unchanging, so unfickle, so sure and eternal, and yet so wonderful as to satisfy the heart forever, and yet we continue to continually return to these things because that is our nature.
+
+
+
+This is God's design: that fallen man should carry a great longing within him as he walks the earth in this life. Just as man's body can become sick with microbes or weak from malnourishment, so we are cut off from the food we need to strengthen us, and our self-reliance sickens our souls and bodies. Thus, we ache to worship something, and the presence of the desire to worship something necessitates something which is worthy of worship. Creation's muffled groans and the heart's insufferable longings both testify of the unchanging greatness of God; Creation, for it longs to be renewed, and man, for he desires something that the world cannot provide. The Teacher in Ecclesiastes does not hammer again and again that "all is vanity" for no reason. The cure to the sickness which plagues even our bones is undying reliance upon God alone; that is what worship _is_.
+
+
+
+A higher view of God is in order for our lowly minds. His power and mercy and grace are incomprehensible in magnitude; He directs the whole show, as Almighty Lord. Worshiping Him as He is frees us to trust everything to Him, and even to live lives that we would not have previously thought would be bearable. Just as the birds of the air are fed and the flowers of the field are clothed, we can trust that all things will pan out _exactly_ according to His sovereign decree. Even if all of life must be counted as loss, and even if we must bear unending grief every waking day, we have a solid foundation upon which we can rejoice, and a rock upon which we can kneel and weep.

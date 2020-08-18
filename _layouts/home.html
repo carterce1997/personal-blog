@@ -2,40 +2,61 @@
 layout: default
 ---
 
-<div class="container" style="text-align:center">
-  <p>{{ site.quote }}</p>
-  &middot;&middot;&middot;
-</div>
+<div class="columns">
+  <div class="column">
+  {% for p in site.posts limit: 6 %}
 
-<br>
+      <div class="columns">
 
-{% for p in site.categories.blog limit: 4 %}
+        {% if p.image and p.image != '' %}
 
-    <div class="columns">
+          <div class="column is-one-third">
+            <figure class = "figure">
+              <img src="{{ p.image }}" alt="">
+            </figure>
+          </div>
 
-      {% if p.image and p.image != '' %}
-
-        <div class="column is-one-third">
-          <figure class = "figure">
-            <img src="{{ p.image }}" alt="">
-          </figure>
-        </div>
-
-      {% endif %}
+        {% endif %}
 
 
-      <div class="column">
+        <div class="column">
 
-        <!-- Post title -->
-        <div class="container">
-          <a class="title is-5" href="{{ p.url }}">{{ p.title }}</a>
-          <p>{{ p.date | date: "%B %-d, %Y" }}</p>
-          <p>{{ p.content | strip_html | strip_newlines | truncate: 200 }}</p>
+          <!-- Post title -->
+          <div class="container">
+            <a class="title is-5" href="{{ p.url }}">{{ p.title }}</a>
+            <p>{{ p.date | date: "%B %-d, %Y" }} &middot {% for tag in p.tags %} {{ tag | capitalize }} {% endfor %}</p>
+            <p>{{ p.content | strip_html | strip_newlines | truncate: 200 }}</p>
+          </div>
+
         </div>
 
       </div>
 
-    </div>
 
+  {% endfor %}
+  </div>
 
-{% endfor %}
+  <div class="column is-one-quarter">
+
+    {% for tag in site.tags %}
+
+      {% assign t = tag | first %}
+      {% assign posts = tag | last %}
+
+      <p style="margin: 0 0 0.2em">
+        {{t | capitalize | replace:",", "" }}
+      </p>
+
+      {% for post in posts %}
+        <a href={{ post.url }}>
+          <p style="margin: 0 1em 0.2em">
+            {{ post.title }}
+          </p>
+        </a>
+      {% endfor %}
+
+      <br>
+
+    {% endfor %}
+  </div>
+</div>
