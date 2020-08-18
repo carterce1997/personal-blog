@@ -4,7 +4,7 @@ title: The End of Civility
 author: Chris Carter
 categories: blog
 published: false
-tags: politics, culture
+tags: politics
 ---
 
 _Please bear with some mathematical jargon. I actually have a blog [here](https://www.someappliedtheoretics.com) where I just talk about math, physics, computer science, and other related things, and I understand that this is not that place. Trust me, I am going somewhere with this._
