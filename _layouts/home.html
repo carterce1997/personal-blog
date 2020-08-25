@@ -18,13 +18,16 @@ layout: default
 
         {% endif %}
 
+        {% capture wordcount %}
+          {{ p.content | number_of_words }}
+        {% endcapture %}
 
         <div class="column">
 
           <!-- Post title -->
           <div class="container">
             <a class="title is-5" href="{{ p.url }}">{{ p.title }}</a>
-            <p>{{ p.date | date: "%B %-d, %Y" }} &middot {% for tag in p.tags %} {{ tag | capitalize }} {% endfor %}</p>
+            <p>{{ p.date | date: "%B %-d, %Y" }} &middot {% for tag in p.tags %} {{ tag | capitalize }} {% endfor %} &middot {{ wordcount | divided_by: 200 }} min read</p>
             <p>{{ p.content | strip_html | strip_newlines | truncate: 200 }}</p>
           </div>
 
