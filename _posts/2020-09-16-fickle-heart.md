@@ -4,6 +4,7 @@ author: Chris Carter
 layout: post
 categories: blog
 tags: thoughts
+published: false
 ---
 
 Why did you die for me, my Lord?
