@@ -4,7 +4,7 @@ layout: default
 
 <div class="columns">
   <div class="column">
-  {% for p in site.posts limit: 6 %}
+  {% for p in site.posts limit: 3 %}
 
       <div class="columns">
 
@@ -41,9 +41,7 @@ layout: default
 
   <div class="column is-one-third">
 
-    {% assign sorted_tags = site.tags | sort %}
-
-    {% for tag in sorted_tags %}
+    {% for tag in site.tags %}
 
       {% assign t = tag | first %}
       {% assign posts = tag | last %}
