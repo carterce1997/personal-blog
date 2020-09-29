@@ -20,9 +20,6 @@
   <!-- Stylesheet -->
   <link rel="stylesheet" href="/assets/css/mystyles.css">
 
-  <!-- Netlify Identity -->
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-144214802-3"></script>
   <script>
@@ -82,10 +79,6 @@
             
               
                 <a class="navbar-item" href="/contact/">Contact</a>
-              
-            
-              
-                <a class="navbar-item" target="_blank" href="https://www.patreon.com/chrisevancarter?fan_landing=true">Patreon</a>
               
             
               
@@ -206,19 +199,6 @@
     <br>
 
   </main>
-
-  <!-- Netlify Indentity Admin Redirect -->
-  <script>
-    if (window.netlifyIdentity) {
-      window.netlifyIdentity.on("init", user => {
-        if (!user) {
-          window.netlifyIdentity.on("login", () => {
-            document.location.href = "/admin/";
-          });
-        }
-      });
-    }
-  </script>
 
 </body>
 
