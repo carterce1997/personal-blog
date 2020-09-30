@@ -6,7 +6,7 @@ layout: default
 
 <br>
 
-<form name="contact" method="POST" data-netlify="true">
+<form name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true">
   <div class="field">
     <label class="label">Name</label>
     <div class="control has-icons-left has-icons-right">
@@ -41,9 +41,12 @@ layout: default
     </div>
   </div>
 
+  <div data-netlify-recaptcha="true"></div>
+
   <div class="field">
     <div class="control">
       <button type="submit" class="button is-link">Submit</button>
     </div>
   </div>
+
 </form>
