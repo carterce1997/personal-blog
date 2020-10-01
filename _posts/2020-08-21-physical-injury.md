@@ -2,8 +2,6 @@
 layout: post
 title: On Physical Injury
 author: Chris Carter
-categories: blog
-tags: training
 ---
 
 As an athlete, I can confirm that being physically injured is really disheartening. It's an inevitable reality of pushing yourself in any physical domain that you will _eventually_ get injured somehow. If you don't get hurt every once in a while, chances are you're missing out on a lot of performance. To some, the prospect of getting injured is a strong deterrence from engaging in any athletic activity at all. On the extreme end of the spectrum are those who say "with all of the wear and tear that exercise puts on the body, it's not worth it to do any sort of hard training".

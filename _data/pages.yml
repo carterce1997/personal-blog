@@ -4,7 +4,3 @@
 
 - name: Contact
   link: /contact/
-
-- name: COVID-19
-  link: https://christophercarter.shinyapps.io/coronavirus/
-  external: true

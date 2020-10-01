@@ -5,7 +5,7 @@ layout: default
 <div class="columns">
   <div class="column">
 
-  {% for p in site.posts limit: 3 %}
+    {% for p in site.posts limit: 4 %}
 
       <div class="columns">
 
@@ -28,7 +28,7 @@ layout: default
           <!-- Post title -->
           <div class="container">
             <a class="title is-5" href="{{ p.url }}">{{ p.title }}</a>
-            <p>{{ p.date | date: "%B %-d, %Y" }} &middot {% for tag in p.tags %} {{ tag | capitalize }} {% endfor %} &middot {{ wordcount | divided_by: 200 }} min read</p>
+            <p>{{ p.date | date: "%B %-d, %Y" }} &middot {{ wordcount | divided_by: 200 }} min read</p>
             <p>{{ p.content | strip_html | strip_newlines | truncate: 200 }}</p>
           </div>
 
@@ -36,22 +36,15 @@ layout: default
 
       </div>
 
+    {% endfor %}
 
-  {% endfor %}
   </div>
 
   <div class="column is-one-third">
 
-    {% for tag in site.tags %}
+    <p style="margin: 0 0 0.2em">Archive</p>
 
-      {% assign t = tag | first %}
-      {% assign posts = tag | last %}
-
-      <p style="margin: 0 0 0.2em">
-        {{t | capitalize | replace:",", "" }}
-      </p>
-
-      {% for post in posts %}
+      {% for post in site.posts %}
 
         <p class="is-size-7" style="margin: 0 1em 0">
           <a href={{ post.url }}>
@@ -62,6 +55,19 @@ layout: default
         </p>
 
       {% endfor %}
+
+
+    <br>
+
+    <p style="margin: 0 0 0.2em">Extracurriculars</p>
+
+    {% for link in site.data.links %}
+
+      <p class="is-size-7" style="margin: 0 1em 0">
+        <a href={{ link.url }}>
+          {{ link.title }}
+        </a>
+      </p>
 
     {% endfor %}
 

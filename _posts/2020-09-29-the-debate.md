@@ -2,7 +2,6 @@
 layout: post
 title: An Opportunity to Talk About Chivalry, and an Observation
 author: Chris Carter
-tags: politics
 ---
 
 Tonight's presidential debate was, well, hardly a discussion of ideas or a battle of intellectual wills between two men. My dad put it best when he said, "Trump lost, but Biden didn't beat him". I couldn't have said it better. I really wasn't expecting anything grand or impressive from Biden. He performed about as I thought he would: he stuck to the middle, tried his best to avoid the more abrasive Democratic talking points, and generally followed the rules of debate, but mostly bumbled his way through trying to appeal to the median voter. All Trump really had to do was shut up and keep sharp enough to answer the questions. When he's not being belligerent, he answers them better, and he has better answers.

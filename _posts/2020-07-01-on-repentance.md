@@ -2,8 +2,6 @@
 layout: post
 title: On Repentance
 author: Chris Carter
-categories: blog
-tags: theology
 ---
 
 It is impossible to talk about repentance without talking about sin.

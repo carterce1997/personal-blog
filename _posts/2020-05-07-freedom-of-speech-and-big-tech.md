@@ -2,8 +2,6 @@
 layout: post
 title: Freedom of Speech, and Big Tech
 author: Chris Carter
-categories: blog
-tags: politics
 ---
 
 From the vantage point of the Constitution, freedom of speech is possible due to the existence of a "polis". A polis must have the quality of being public, "owned" by the people as a collective whole, so that no one may be censored from entering the polis by means of "trespassing". A shop owner has the right to kick me out of his shop if I opine in a way that does not please him. It is his shop, and he can choose to allow the presence of whomever he pleases, and he would have the same right to do so in his own home, his yard, his garage, or any other space which he owns.

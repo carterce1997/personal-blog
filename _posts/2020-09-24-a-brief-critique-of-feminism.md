@@ -2,7 +2,6 @@
 layout: post
 title: A Brief Critique of Feminism
 author: Chris Carter
-tags: politics
 ---
 
 It's often the case with any discussion of ideas, that the definition of terms serves as a stumbling block to productive conversation. I've found that "what exactly do you mean?" or "what exactly are you asking?" are two of the most helpful questions in any discussion. To the end of attempting to live at peace with all men, we ought to be sure that we know what they are saying, first. Thus, when it comes to the question "do you support feminism?" in the absence of any context, my response is almost surely "it depends what you mean by feminism". I am not an ideologue who merely opposes or supports anything attached to a particular word. If you were to ask me if I supported "social justice", my answer would most likely be "no", but I would refrain from giving a definite answer until I was sure I understood what was meant by "social justice" in the mind of the person I was speaking with. If they meant "a Marxist definition of justice", my original answer would stand, but if they meant "limited structures of socialized support for those who have fallen on hard times", I could probably get behind that.
