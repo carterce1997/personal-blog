@@ -2,6 +2,7 @@
 layout: post
 title: Biblical Rest
 author: Chris Carter
+published: false
 ---
 
 It seems to me that God gave us 6 days to work and 1 day to rest. The usual argument opposing this is that Christ is our _true_ Sabbath and therefore we don't need to observe the Sabbath as Christians today. Yes and amen, Christ is our true Sabbath; we strive no longer in Him. But if we affirm that God's 6-1 work/rest split is null and void in the Christian age, what's the best way to partition our rest among our work? 7 days on, full throttle? 5 days of work and 2 days of rest, with workday evenings filled with 4 hour periods of hardcore Call of Duty and binge watching Season 2 of The Office in one go? What does "rest" even mean?
