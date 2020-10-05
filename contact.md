@@ -3,4 +3,4 @@ layout: contact
 permalink: /contact/
 ---
 
-If you like what I do, have feedback, or want to collaborate, send me a message below. 
+<div class="container has-text-centered">If you like what I do, hate what I do, have feedback, or want to collaborate, send me a message below!</div>
