@@ -4,7 +4,7 @@ title: Brace Hard
 author: Chris Carter
 ---
 
-Andrew Cuomo recently stated to the Orthodox Jewish community, "If you're not going to live with these rules, then I'm going to close the synagogues". Now, to be fair to the Governor, he did seem to express some remorse over this action, citing the long history he has had with the Orthodox Jewish community and the risk of jeopardizing that relationship over the policies he sees necessary. I stumbled on a tweet by The Hill which documents it.
+Andrew Cuomo recently stated to the Orthodox Jewish community, "If you're not going to live with these [COVID-19] rules, then I'm going to close the synagogues". Now, to be fair to the Governor, he did seem to express some remorse over this action, citing the long history he has had with the Orthodox Jewish community and the risk of jeopardizing that relationship over the policies he sees necessary. I stumbled on a tweet by The Hill which documents it.
 
 <div class="columns">
   <div class="column"></div>
