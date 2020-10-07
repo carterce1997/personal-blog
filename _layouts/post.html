@@ -3,28 +3,8 @@ layout: default
 ---
 
 <!-- Post -->
-<!-- {% if page.image %}
-  <div class="columns">
-    <div class="column"></div>
-
-    <div class="column is-half">
-      <img src="{{ page.image }}" alt="{{ page.caption }}">
-      {% if page.caption %}
-        <p align="right">{{ page.caption }}</p>
-      {% endif %}
-    </div>
-
-    <div class="column"></div>
-
-  </div>
-  <br>
-{% endif %} -->
-
 {% if page.image %}
-      <img src="{{ page.image }}" alt="{{ page.caption }}" style="width:500px; margin: 0px 20px 20px 0px;" align ="left">
-      <!-- {% if page.caption %}
-        <p align="right">{{ page.caption }}</p>
-      {% endif %} -->
+  <img src="{{ page.image }}" alt="{{ page.caption }}" style="width:300px; margin: 0px 20px 0px 0px;" align ="left">
 {% endif %}
 
 <div class="container" style="text-align:center">

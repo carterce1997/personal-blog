@@ -2,5 +2,8 @@
 - name: About
   link: /about/
 
+- name: Archive
+  link: /archive/
+
 - name: Contact
   link: /contact/
