@@ -30,7 +30,7 @@
   width: 0.625em; }
 
 .title:not(:last-child),
-.subtitle:not(:last-child), .level:not(:last-child) {
+.subtitle:not(:last-child), .box:not(:last-child), .level:not(:last-child) {
   margin-bottom: 1.5rem; }
 
 .button.is-loading::after, .select.is-loading::after, .control.is-loading::after {
@@ -3139,6 +3139,19 @@ a.has-text-danger:hover, a.has-text-danger:focus {
   .icon.is-large {
     height: 3rem;
     width: 3rem; }
+
+.box {
+  background-color: white;
+  border-radius: 6px;
+  box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, 0.1), 0 0px 0 1px rgba(10, 10, 10, 0.02);
+  color: #4a4a4a;
+  display: block;
+  padding: 1.25rem; }
+
+a.box:hover, a.box:focus {
+  box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, 0.1), 0 0 0 1px #3273dc; }
+a.box:active {
+  box-shadow: inset 0 1px 2px rgba(10, 10, 10, 0.2), 0 0 0 1px #3273dc; }
 
 .section {
   padding: 3rem 1.5rem; }

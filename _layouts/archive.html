@@ -2,37 +2,18 @@
 layout: default
 ---
 
-{% for p in site.posts limit: 4 %}
+{% assign rows = site.posts.size | divided_by: 2.0 | ceil %}
+{% for i in (1..rows) %}
+  {% assign offset = forloop.index0 | times: 2 %}
 
   <div class="columns">
-
-    {% if p.image and p.image != '' %}
-
-      <div class="column is-one-third">
-        <figure class = "figure">
-          <img src="{{ p.image }}" alt="">
-        </figure>
+    {% for post in site.posts limit:2 offset:offset %}
+      <div class="column">
+        <a class="title is-6" href="{{ p.url }}">{{ post.title }}</a>
+        <p style="margin: 0 0 0;">{{ post.date | date: "%B %-d, %Y" }}</p>
+        <p style="margin: 0 0 0;">{{ post.content | strip_html | strip_newlines | truncate: 100 }}</p>
       </div>
-
-    {% endif %}
-
-    {% capture wordcount %}
-      {{ p.content | number_of_words }}
-    {% endcapture %}
-
-    <div class="column">
-
-      <!-- Post title -->
-      <div class="container">
-        <a class="title is-5" href="{{ p.url }}">{{ p.title }}</a>
-        <p>{{ p.date | date: "%B %-d, %Y" }} &middot {{ wordcount | divided_by: 200 }} min read</p>
-        <p style="margin: 0 0 0;">{{ p.content | strip_html | strip_newlines | truncate: 200 }}</p>
-      </div>
-
-    </div>
-
+    {% endfor %}
   </div>
-
-  <hr style="margin: 0 0 2em">
 
 {% endfor %}

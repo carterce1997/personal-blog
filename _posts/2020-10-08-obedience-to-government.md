@@ -2,6 +2,7 @@
 layout: post
 title: Obedience to Government
 author: Chris Carter
+image: /assets/img/capitol2.jpg
 ---
 
 The crux of the issue of disobeying government is figuring out _when_ disobedience to government is obedience to Christ, and when disobedience to government is disobedience to Christ. One extreme school of thought is that obedience to government is necessary all of the time, and Paul's command in Romans 13 to "be in subjection to governing authorities" is a command for all times and places and situations. This school would have to therefore condemn all civil disobedience as ungodly, including the civil disobedience of the apostles themselves. The opposing extreme argues that obedience to God necessitates that we don't consider obedience to government at all, but of course, this view has to deal with pesky problem passages like Romans 13. Ultimately, the nature of the authority structure between God and government is in question. Is human government a pure agent of God's governance? Certainly not. Is human government wholly divorced from God's governance? Clearly, no.
