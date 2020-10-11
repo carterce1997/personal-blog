@@ -10,4 +10,8 @@ How a person sees Christ dictates everything about they way they live. If Christ
 
 We have long forgotten that a Christless soul and a Christless nation are fundamentally hopeless, and the damage done by the rejection of the Gospel of Jesus Christ as the fundamental axiom of being itself is something which cannot be fixed by mere Americanist platitudes, nebulous insistence to embrace "social justice", or convictions from moralistic therapeutic deism. The Gospel is the only remedy for the world, as it has always been, and as it shall always be. Thus, my intention is to keep the topic of this blog broad: I contend that Christ reigns supreme over all of life, having purchased redemption from sins and the restoration of all things by His blood.
 
-Oh, my name is Chris Carter, by the way. Evan is my middle name, hence "C.E.". If you're still using "C.E." to denote "Common Era" instead of "A.D." for _anno domini_ (which means "in the year of our Lord"), you should see to it that you become Christianized. 
+Oh, my name is Chris Carter, by the way. Evan is my middle name, hence "C.E.". If you're still using "C.E." to denote "Common Era" instead of "A.D." for _anno domini_ (which means "in the year of our Lord"), you should see to it that you become Christianized.
+
+<div class="container" style="text-align:center">
+  <a href="https://twitter.com/__chriscarter?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @__chriscarter</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>

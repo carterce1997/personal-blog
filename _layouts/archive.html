@@ -9,7 +9,7 @@ layout: default
   <div class="columns">
     {% for post in site.posts limit:2 offset:offset %}
       <div class="column">
-        <a class="title is-6" href="{{ p.url }}">{{ post.title }}</a>
+        <a class="title is-6" href="{{ post.url }}">{{ post.title }}</a>
         <p style="margin: 0 0 0;">{{ post.date | date: "%B %-d, %Y" }}</p>
         <p style="margin: 0 0 0;">{{ post.content | strip_html | strip_newlines | truncate: 100 }}</p>
       </div>
