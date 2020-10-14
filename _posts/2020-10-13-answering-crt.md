@@ -6,11 +6,9 @@ author: Chris Carter
 
 There are essentially two classes of worldviews in the United States, denoted by "the Right" and "the Left". The Right takes the tenets of its worldview from, roughly, Christianity, although the Right is more and more resembling what the Left was a few decades ago. Up until very recently, we didn't know what the epistemological and moral underpinnings of the Left were. We knew it was something do to with Socialist and Marxist ideas, but the heavy emphasis on race and racial inequality didn't quite fit the bill for either of those. Critical Race Theory fits the shoe.
 
-# The Major Themes
-
 In the interest of knowing this peculiar worldview which is sweeping the nation, Richard Delgado (a CRT professor at University of Alabama School of Law) has wonderfully distilled the basics for us in his book _Critical Race Theory: An Introduction_. You'll have to bear with some jargon; philosophers (especially leftist philosophers) have a habit of word-salading what are otherwise simple yet radical ideas.
 
-## Interest Convergence, Material Determinism, and Racial Realism
+<p class="title is-5" style="margin: 0 0 0.5em">Interest Convergence, Material Determinism, and Racial Realism</p>
 
 Interest Convergence is (funny enough) the convergence of the interests of the oppressing and oppressed classes for the sake of the oppressing class. The example given is in 1954 when the Supreme Court established that segregation in schools was unconstitutional in _Brown v. Board of Education of Topeka_. CRT argues that this was done to ease racial tensions and quell the threat of widespread domestic unrest following the Korean War and WW2 and in order to present a more united front for the Cold War, not out of a societal desire for racial equality. Racial Realism is another term, which argues that racism arises as "a means by which society allocates privilege and status", as opposed to matters of thinking, discourse, and perception. It's a far more subtle kind of racism. CRT argues this by means of Material Determinism, the concept that racism is a tool to demonize conquered nations in order to acquire material gains, such as land or slaves, with the application today being made to things like police violence, wealth inequality, healthcare inequality, et cetera. Racial Realism is the "what" of racism, and Material Determinism is the "why" of it.
 
@@ -28,7 +26,7 @@ _But someone will say, "You have faith; I have deeds."" Show me your faith witho
 
 meaning that you can tell by someone's works the nature of their heart. When we speak Biblically of a sin like racism (the sin of partiality, more accurately), there is always evidence of this sin; there is nothing "implicit" about it.
 
-## Revisionist History
+<p class="title is-5" style="margin: 0 0 0.5em">Revisionist History</p>
 
 CRT strongly advocates for a reexamination of America's history by "replacing comforting majoritarian interpretations of events with ones that square more accurately with minorities’ experiences". This implicitly assumes that history must be interpreted through a lens at all; that there can be no objective "layout out of the facts" in the teaching of history. A postmodern perspective on what it means to be "objective" would almost certainly bolster this claim, since postmodernists are fond of throwing away absolute truth in exchange for an overstretched perspectivism.
 
@@ -38,7 +36,7 @@ I'll also ask this; why must we adopt a minority perspective with respect to his
 
 As Christians we know that God's word is sufficient for all of life and godliness. It is a razor sharp scalpel which is able to dissect any historical event and provide a perspective which is exactly correct.
 
-## Critique of Liberalism
+<p class="title is-5" style="margin: 0 0 0.5em">Critique of Liberalism</p>
 
 CRT has lost faith that Liberalism (Classical Liberalism, not the Leftist flavor of it) as an effective engine of social change, and places strong criticism against Liberal notions of equality and justice, such as color blindness, role modeling, the merit principle, and other "neutral principles of constitutional law". They believe these things are ineffective for bringing about true equality, and merely gloss over the real issues. CRT is also incredibly skeptical of the Liberal notion of rights, their quarrel being that most "rights" are merely rights to a procedure (e.g. right to start a business, right to freedom of speech) rather than rights to a certain outcome (e.g. right to a salary, right not to hear hate speech). Liberalism puts a heavy emphasis on personal responsibility and equality of opportunity for the sake of economic flourishing, while CRT upholds that systems must emphasize equality of outcome in order to be just.
 
@@ -58,7 +56,7 @@ The Bible commands us to work, and promises increases in wealth if we do. Equali
 
 _John answered, "Anyone who has two shirts should share with the one who has none, and anyone who has food should do the same."_ (Luke 3:11)
 
-## Structural Determinism
+<p class="title is-5" style="margin: 0 0 0.5em">Structural Determinism</p>
 
 CRT argues that the structure of language and thought itself can be a system of oppression. Structural Determinism is "the idea that our system, by reason of its structure and vocabulary, cannot redress certain types of wrong". Language and thought, under CRT, are fundamentally limited, like a color palette which is artificially limited to paint a picture of reality, and thus play a big role in determining important social outcomes without any conscious effort.
 
@@ -66,7 +64,7 @@ The Bible is clear that Scripture, which is written in English Bibles, is suffic
 
 _All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, so that the servant of God may be thoroughly equipped for every good work._ (2 Timothy 3:16-17)
 
-## Essentialism and Intersectional Theory
+<p class="title is-5" style="margin: 0 0 0.5em">Essentialism and Intersectional Theory</p>
 
 CRT also upholds a judicial calculus based on Essentialism and Intersectional Theory, which assign varying levels of oppressor/oppressed status to people groups based on gender, race, sexuality, and other categories. If you are black, you are oppressed, if you are a black woman you are more oppressed, if you are a black transgender woman you are even more oppressed, et cetera. In a similar manner, if you are white, you are an oppressor, if you are a white male you are more of an oppressor, if you are a white male slaveowner descendant you are even more of an oppressor, et cetera.
 
