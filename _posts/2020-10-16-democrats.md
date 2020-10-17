@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Democrats Love Their Sin
+title: Democrats
 author: Chris Carter
 ---
 
