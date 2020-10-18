@@ -58,24 +58,40 @@ layout: default
 <body>
 
   <!-- Post -->
-  {% if page.image %}
-    <img src="{{ page.image }}" alt="{{ page.caption }}" style="width:300px; margin: 0px 20px 20px 0px;" align ="left">
-  {% endif %}
+  {% if page.audio %}
 
-  <div class="container" style="text-align:center">
-    <p class="title is-4">{{ page.title }}</p>
-    <p class="subtitle is-6">{{ page.author }} &middot; {{ page.date | date: "%B %-d, %Y" }}</p>
-    <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a>
-    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  </div>
+    <div class="container" style="text-align:center">
+      <p class="title is-4">{{ page.title }}</p>
+      <p class="subtitle is-6">{{ page.author }} &middot; {{ page.date | date: "%B %-d, %Y" }}</p>
+    </div>
+
+    <div class="container" align="center">
+      <audio controls>
+        <source src="{{ page.audio }}" type="audio/mpeg">
+        Unsupported browser.
+      </audio>
+
+        <p style="margin: 0 0 0 0">Or listen on <a target="_blank" href="{{ page.anchor_link }}">anchor.fm</a></p>
+
+    </div>
+
+    <br>
+
+  {% else %}
+
+    <div class="container" style="text-align:center">
+      <p class="title is-4">{{ page.title }}</p>
+      <p class="subtitle is-6">{{ page.author }} &middot; {{ page.date | date: "%B %-d, %Y" }}</p>
+    </div>
+
+    {% if page.image %}
+      <img src="{{ page.image }}" alt="{{ page.caption }}" style="width:300px; margin: 0px 20px 20px 0px;" align ="left">
+    {% endif %}
+
+  {% endif %}
 
   <div class="container">
     {{ content }}
-  </div>
-
-  <div class="container" style="text-align:center">
-    <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a>
-    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
 
   <hr>
@@ -85,10 +101,9 @@ layout: default
 
     <div class="column">
       {% if page.previous.url %}
-        <!-- <p class="title is-4">Previous Post</p> -->
         <div class="container">
           <a href="{{ page.previous.url | prepend: site.baseurl }}">
-            <p class="title is-5">
+            <p class="title is-5" style="margin: 0 0 0 0">
               {{ page.previous.title }}
             </p>
           </a>
@@ -99,10 +114,9 @@ layout: default
 
     <div class="column">
       {% if page.next.url %}
-        <!-- <p class="title is-4">Next Post</p> -->
         <div class="container" style="text-align:right">
           <a href="{{ page.next.url | prepend: site.baseurl }}">
-            <p class="title is-5">
+            <p class="title is-5" style="margin: 0 0 0 0">
               {{ page.next.title }}
             </p>
           </a>
