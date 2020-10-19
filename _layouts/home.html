@@ -40,7 +40,6 @@ layout: default
 
 <hr>
 
-<!-- {% assign rows = site.posts.size | divided_by: 2.0 | ceil %} -->
 {% assign rows = 2 %}
 {% for i in (1..rows) %}
   {% assign offset = forloop.index0 | times: 2 | plus: 1 %}

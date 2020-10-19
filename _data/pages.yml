@@ -5,5 +5,9 @@
 - name: Archive
   link: /archive/
 
-- name: Contact
-  link: /contact/
+# - name: Contact
+#   link: /contact/
+
+- name: Buy Me a Coffee
+  link: https://www.buymeacoffee.com/chrisevancarter
+  external: true
