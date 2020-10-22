@@ -2,6 +2,7 @@
 layout: post
 title: A Woke Christian is Technically a Schizophrenic
 author: Chris Carter
+published: false
 ---
 
 _May you live in interesting times._
