@@ -2,7 +2,6 @@
 layout: post
 title: Woke Christians
 author: Chris Carter
-published: false
 ---
 
 It doesn't take prophetic insight to understand that the United States is on the cusp of great social change. With Critical Race Theory and social justice in the public eye and influencing public decisions, Evangelicals have been blindsided by a wave of political and theological dilemmas they were not prepared to deal with. The infiltration of "wokeness" into our churches, even in the Reformed movement, is clear evidence of this confusion. The root, of course, is Biblical illiteracy; Evangelicals have been ill-prepared to answer questions like "what is the Biblical view of justice?", or "what is the Biblical concept of love?", or "what is the Biblical role of government?". When Christian justice, love, and politics are absent from the church, worldly justice, love, and politics gladly take their place. Evangelical churches have become vexing places, filled with vexing creatures; people who hold to the _imago dei_ sanctity of life (do not murder), and yet intend to vote for a political party which encourages the widespread legalization of abortion (read: murder). Having interacted with one of these walking contradictions for a few minutes, and having heard of their vexing politics, you ask them a follow up question: "why?".
