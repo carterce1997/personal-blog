@@ -6,7 +6,7 @@ title: Post Tenebras Lux | The Benedictine Diaries
 
 I often oversleep. On those days, being late to work is worth skipping a few waking minutes of existence.
 
-Sometimes, the sweetest combination of despair and hope is a lot and a little. An illuminated keyhole in a prison cell door. A world where some friends and loved ones are laden with childhood abuse, another with the tragic loss of their young son in a housefire, and another with their enduring shame because of sexual assault, illuminated at a singularity.
+Sometimes, the sweetest combination of despair and hope is a lot and a little. An bright keyhole in a prison cell door. A dark world, illuminated at a singularity; the same world where some friends and loved ones are laden with childhood abuse, another with the tragic loss of their young son in a housefire, and another with their enduring shame because of sexual assault.
 
 A pinprick in the dark fabric of history: a Man on a Cross, enthroned with nails, crowned with thorns, robed with 39 lashes.
 
