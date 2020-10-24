@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Chris Carter
-title: The Benedictine Diaries | Post Tenebras Lux
+title: Post Tenebras Lux | The Benedictine Diaries
 ---
 
 I often oversleep. On those days, being late to work is worth skipping a few waking minutes of existence.
