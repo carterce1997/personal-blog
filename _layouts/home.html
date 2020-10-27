@@ -44,16 +44,19 @@ layout: default
 
   <div class="columns">
     {% for post in site.posts limit:2 offset:offset %}
+
+      {% capture wordcount %}
+        {{ post.content | number_of_words }}
+      {% endcapture %}
+
       <div class="column">
         <div class="container has-text-centered">
           <a class="title is-6" href="{{ post.url }}">{{ post.title }}</a>
-          <p class="is-size-6" style="margin: 0 0 0.5em">{{ post.date | date: "%B %-d, %Y" }}</p>
+          <p class="is-size-6" style="margin: 0 0 0.5em">{{ post.date | date: "%B %-d, %Y" }} &middot {{ wordcount | divided_by: 200 }} min read</p>
         </div>
         <p class="is-size-6" style="margin: 0 0 0;">{{ post.content | strip_html | strip_newlines | truncate: 200 }}</p>
       </div>
     {% endfor %}
   </div>
-
-  <br>
 
 {% endfor %}
