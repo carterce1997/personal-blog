@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Machiavellianism
+title: Machiavellianism | No Quarter November
 author: Chris Carter
 ---
 
