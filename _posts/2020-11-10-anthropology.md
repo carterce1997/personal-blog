@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Miscalculated Justice
+title: A Biblical Anthropology
 author: Chris Carter
 published: false
 ---
