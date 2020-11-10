@@ -8,7 +8,7 @@
 - name: Contact
   link: /contact/
 
-- name: YouTube:
+- name: YouTube
   link: https://www.youtube.com/channel/UC-DKZlnJSaon7t9A9SHdv9Q
   external: true
 
