@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Anthropology
+title: Anthropology | No Quarter November
 author: Chris Carter
 ---
 
