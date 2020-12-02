@@ -2,6 +2,7 @@
 layout: post
 title: On Closing Churches
 author: Chris Carter
+published: false
 ---
 
 A lot of men who are far more articulate than I have said what needs to be said about closing churches due to COVID-19. And honestly, I'm sick of talking about it, but my church just closed its doors again, and I'll be saying a lot of the same thing to people over the next few weeks. So, I might as well write it down.
