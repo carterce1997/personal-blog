@@ -1,6 +1,8 @@
 
 title: C.E. Carter
 
+url: https://chrisevancarter.com
+
 auto: true
 markdown: kramdown
 permalink: /:year/:month/:day/:title
