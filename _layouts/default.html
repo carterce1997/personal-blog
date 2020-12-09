@@ -4,9 +4,17 @@
 
   {% include head.html %}
 
-  {% include header.html %}
-
-  {% include body.html %}
+  <div class="columns">
+    <!-- Filler column -->
+    <div class="column"></div>
+    <!-- Center content column -->
+    <div class="column is-full-mobile is-two-thirds-tablet is-half-desktop is-half-widescreen is-half-fullhd">
+      {% include header.html %}
+      {% include body.html %}
+    </div>
+    <!-- Filler column -->
+    <div class="column"></div>
+  </div>
 
   {% include footer.html %}
 

@@ -15,4 +15,4 @@
 - name: Buy Me a Coffee
   link: https://www.buymeacoffee.com/chrisevancarter
   external: true
-  button: true
+  button: false

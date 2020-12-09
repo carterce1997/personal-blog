@@ -1,86 +1,65 @@
 
 <header>
+  <nav class="navbar" role="navigation" aria-label="main navigation">
 
-  <br>
-
-  <div class="columns is-mobile">
-
-    <!-- Filler column -->
-    <div class="column"></div>
-
-    <!-- Center content column -->
-    <div class="column is-full-mobile is-two-thirds-tablet is-half-desktop is-half-widescreen is-half-fullhd">
-
-      <nav class="navbar" role="navigation" aria-label="main navigation">
-
-        <div class="navbar-brand">
-
-          <div class="navbar-item">
-            <a class="title is-3" href="/">{{ site.title }}</a>
-          </div>
-
-          <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
-            <span aria-hidden="true"></span>
-            <span aria-hidden="true"></span>
-            <span aria-hidden="true"></span>
-          </a>
-        </div>
-
-        <div id="navbarBasicExample" class="navbar-menu">
-          <div class="navbar-end">
-            {% for page in site.data.pages %}
-              {% if page.external %}
-                {% if page.button %}
-                  <div class="navbar-item">
-                    <a class="button is-success" target="_blank" href="{{ page.link }}">{{ page.name }}</a>
-                  </div>
-                {% else %}
-                  <a class="navbar-item" target="_blank" href="{{ page.link }}">{{ page.name }}</a>
-                {% endif %}
-              {% else %}
-                <a class="navbar-item" href="{{ page.link }}">{{ page.name }}</a>
-              {% endif %}
-            {% endfor %}
-
-          </div>
-        </div>
-
-      </nav>
-
+    <div class="navbar-brand">
+      <div class="navbar-item">
+        <a class="title is-4" href="/">{{ site.title }}</a>
+      </div>
+      <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
     </div>
 
-    <!-- Filler column -->
-    <div class="column"></div>
+    <div id="navbarBasicExample" class="navbar-menu">
+      <div class="navbar-end">
+        {% for page in site.data.pages %}
+          {% if page.external %}
+            {% if page.button %}
+              <div class="navbar-item">
+                <a class="button is-success" target="_blank" href="{{ page.link }}">{{ page.name }}</a>
+              </div>
+            {% else %}
+              <a class="navbar-item" target="_blank" href="{{ page.link }}">{{ page.name }}</a>
+            {% endif %}
+          {% else %}
+            <a class="navbar-item" href="{{ page.link }}">{{ page.name }}</a>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+    
+  </nav>
 
-    <!-- Navbar Burger -->
-    <script type="text/javascript">
-      document.addEventListener('DOMContentLoaded', () => {
+  <!-- Navbar Burger -->
+  <script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', () => {
 
-        // Get all "navbar-burger" elements
-        const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+      // Get all "navbar-burger" elements
+      const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
 
-        // Check if there are any navbar burgers
-        if ($navbarBurgers.length > 0) {
+      // Check if there are any navbar burgers
+      if ($navbarBurgers.length > 0) {
 
-          // Add a click event on each of them
-          $navbarBurgers.forEach( el => {
-            el.addEventListener('click', () => {
+        // Add a click event on each of them
+        $navbarBurgers.forEach( el => {
+          el.addEventListener('click', () => {
 
-              // Get the target from the "data-target" attribute
-              const target = el.dataset.target;
-              const $target = document.getElementById(target);
+            // Get the target from the "data-target" attribute
+            const target = el.dataset.target;
+            const $target = document.getElementById(target);
 
-              // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
-              el.classList.toggle('is-active');
-              $target.classList.toggle('is-active');
+            // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+            el.classList.toggle('is-active');
+            $target.classList.toggle('is-active');
 
-            });
           });
-        }
+        });
+      }
 
-      });
-    </script>
-
-  </div>
+    });
+  </script>
 
 </header>
