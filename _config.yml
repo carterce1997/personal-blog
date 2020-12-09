@@ -4,3 +4,9 @@ title: C.E. Carter
 auto: true
 markdown: kramdown
 permalink: /:year/:month/:day/:title
+
+plugins:
+  - jekyll-feed
+
+feed:
+  excerpt_only: true

@@ -11,3 +11,5 @@ gem "jekyll", "~> 4.0"
 gem "kramdown", "~> 2.1"
 
 gem "rack", ">= 2.1.4"
+
+gem "jekyll-feed"
