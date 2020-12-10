@@ -1,10 +1,13 @@
 
-<header>
+<header class="header">
   <nav class="navbar" role="navigation" aria-label="main navigation">
 
     <div class="navbar-brand">
       <div class="navbar-item">
-        <a class="title is-4" href="/">{{ site.title }}</a>
+        <div class="container">
+
+        </div>
+          <a class="title is-4" href="/">{{ site.title }}</a>
       </div>
       <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
         <span aria-hidden="true"></span>
@@ -16,21 +19,11 @@
     <div id="navbarBasicExample" class="navbar-menu">
       <div class="navbar-end">
         {% for page in site.data.pages %}
-          {% if page.external %}
-            {% if page.button %}
-              <div class="navbar-item">
-                <a class="button is-success" target="_blank" href="{{ page.link }}">{{ page.name }}</a>
-              </div>
-            {% else %}
-              <a class="navbar-item" target="_blank" href="{{ page.link }}">{{ page.name }}</a>
-            {% endif %}
-          {% else %}
-            <a class="navbar-item" href="{{ page.link }}">{{ page.name }}</a>
-          {% endif %}
+          <a class="navbar-item" target="{% if page.external %} _blank {% endif %}" href="{{ page.link }}">{{ page.name }}</a>
         {% endfor %}
       </div>
     </div>
-    
+
   </nav>
 
   <!-- Navbar Burger -->

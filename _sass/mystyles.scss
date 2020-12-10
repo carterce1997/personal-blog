@@ -16,6 +16,8 @@ $title-family: $family-serif;
 
 $title-weight: $weight-normal;
 
+$navbar-padding-horizontal: 4em;
+
 // Import only what you need from Bulma
 @import "sass/base/_all.sass";
 @import "sass/grid/columns.sass";
