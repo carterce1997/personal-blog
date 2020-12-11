@@ -1,6 +1,6 @@
 
 <header class="header">
-  <nav class="navbar" role="navigation" aria-label="main navigation">
+  <!-- <nav class="navbar" role="navigation" aria-label="main navigation">
 
     <div class="navbar-brand">
       <div class="navbar-item">
@@ -24,10 +24,38 @@
       </div>
     </div>
 
+  </nav> -->
+
+  <nav>
+    <div class="columns is-mobile">
+      <!-- filler -->
+      <div class="column"></div>
+
+      <div class="column">
+        <div class="container has-text-centered">
+          <br>
+
+          <a class="title is-4" href="/">{{ site.title }}</a>
+          <br>
+
+          <p style="margin: 0 0 0 0">
+            {% for page in site.data.pages %}
+              <a class="subtitle is-6" target="{% if page.external %} _blank {% endif %}" href="{{ page.link }}">{{ page.name }}</a>
+              {% if forloop.last == false %}
+                &middot;
+              {% endif %}
+            {% endfor %}
+          </p>
+        </div>
+      </div>
+
+      <!-- filler -->
+      <div class="column"></div>
+    </div>
   </nav>
 
   <!-- Navbar Burger -->
-  <script type="text/javascript">
+  <!-- <script type="text/javascript">
     document.addEventListener('DOMContentLoaded', () => {
 
       // Get all "navbar-burger" elements
@@ -53,6 +81,6 @@
       }
 
     });
-  </script>
+  </script> -->
 
 </header>

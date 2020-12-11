@@ -5,13 +5,13 @@
 - name: Archive
   link: /archive/
 
-# - name: Contact
-  # link: /contact/
+- name: Contact
+  link: /contact/
 
 # - name: YouTube
 #   link: https://www.youtube.com/channel/UC-DKZlnJSaon7t9A9SHdv9Q
 #   external: true
 
-- name: Buy Me a Coffee
+- name: Coffee
   link: https://www.buymeacoffee.com/chrisevancarter
   external: true
