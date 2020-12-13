@@ -1,7 +1,8 @@
 ---
-title: Learning Experiences | The Benedictine Diaries
+title: Learning Experiences
 author: Chris Carter
 layout: post
+tags: [The Benedictine Diaries]
 ---
 
 I recently posted something on a certain social media platform yesterday that I wasn't proud of. I took it down after a couple hours, but not after it had been seen by a lot of people. The "something" was in relation to pastors going along with the false view that the most loving thing they can do during this pandemic is go along with the state if the state decides to shut down churches, as if thing their congregations need the most is to be isolated at home for fear of viral infection. This post was made, in part, after reading [this Tim Challies article](https://www.challies.com/articles/the-cruelty-of-quarantine-a-lament/). Tim Challies lost his son, and because of COVID restrictions he and his family cannot grieve with their community and their church; as of today, they haven't even had the chance to bury him and have a proper funeral. There are many like Tim Challies who are and were experiencing some kind of grief, loss, mental health struggle, or other life crisis who are unable to be comforted and strengthened by the community around them due to COVID rules. Theoretically the State of New York could fine you $10,000 for failing to social distance and abide by other restrictions if you are caught grieving with a group of people over the loss of a family member. That's the cruel mercy of the wicked (Proverbs 12:10), and it makes me quite angry. For churches to shut down for the sake of protecting their congregations from infection is a similar kind of misordered love; the kind that keeps your brothers and sisters from getting sick with COVID, but deprives them of their real need for community and support.

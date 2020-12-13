@@ -14,7 +14,11 @@ layout: default
 
       <div class="container" style="text-align:center">
         <p class="title is-4">{{ page.title }}</p>
-        <p class="subtitle is-6">{{ page.author }} &middot; {{ page.date | date: "%B %-d, %Y" }}</p>
+        <p class="subtitle is-6">
+          {{ page.author }} &middot
+          {{ page.date | date: "%B %-d, %Y" }}
+          {% if p.tags.size > 0 %} &middot {{ p.tags | join: " &middot " }} {% endif %}
+        </p>
       </div>
 
       <div class="container" align="center">

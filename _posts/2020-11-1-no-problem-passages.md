@@ -1,7 +1,8 @@
 ---
 layout: post
-title: No Problem Passages | The Benedictine Diaries
+title: No Problem Passages
 author: Chris Carter
+tags: [The Benedictine Diaries]
 ---
 
 I want to have no problem passages in Scripture. I'm becoming more and more convinced that every morsel of the Holy text is deeply meaningful and connected to every other piece, and I want to know how it all fits together.

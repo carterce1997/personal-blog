@@ -1,7 +1,8 @@
 ---
 layout: post
 author: Chris Carter
-title: First Things First | No Quarter November
+title: First Things First
+tags: [No Quarter November]
 ---
 
 Anyone who knows me understands that I'm a bit of a Wilsonite. Now, I have a few differences with old Doug Wilson (I'm a Reformed Baptist, not a Presbyterian, and I'm not totally sold on the whole Postmillenialism thing just yet, though I often act like I am), but nonetheless I look up to the man's approach to issues of theology and politics. Wilson is a bit of an intellectual, Calvinistic, an avid enthusiast of analogy, a polymath of sorts, undoubtedly masculine, and just fringe enough to be orthodox. I like all of those things, and I look up to him as a role model in many ways because of them. The church needs more men who will say what is plain and true without qualification, and as I've matured I've had the benefit of looking up to many men like this in the Reformed tradition, not to mention my own earthly father (who probably wouldn't identify as Reformed, but has the spirit of it).

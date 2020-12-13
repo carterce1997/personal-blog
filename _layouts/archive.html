@@ -18,7 +18,11 @@ layout: default
       <div class="column">
         <div class="container has-text-centered">
           <a class="title is-6" href="{{ post.url }}">{{ post.title }}</a>
-          <p class="is-size-6" style="margin: 0 0 0.5em">{{ post.date | date: "%B %-d, %Y" }} &middot {{ wordcount | divided_by: 200 }} min read</p>
+          <p class="is-size-6" style="margin: 0 0 0.5em">
+            {{ post.date | date: "%B %-d, %Y" }} &middot
+            {{ wordcount | divided_by: 200 }} min read
+            {% if p.tags.size > 0 %} &middot {{ p.tags | join: " &middot " }} {% endif %}
+          </p>
         </div>
         <p class="is-size-6" style="margin: 0 0 0;">{{ post.content | strip_html | strip_newlines | truncate: 200 }}</p>
       </div>

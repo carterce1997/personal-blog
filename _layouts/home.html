@@ -27,7 +27,11 @@ layout: default
         <!-- Post title -->
         <div class="container has-text-centered">
           <a class="title is-6" href="{{ p.url }}">{{ p.title }}</a>
-          <p style="margin: 0 0 0.5em">{{ p.date | date: "%B %-d, %Y" }} &middot {{ wordcount | divided_by: 200 }} min read</p>
+          <p style="margin: 0 0 0.5em">
+            {{ p.date | date: "%B %-d, %Y" }} &middot
+            {{ wordcount | divided_by: 200 }} min read
+            {% if p.tags.size > 0 %} &middot {{ p.tags | join: " &middot " }} {% endif %}
+          </p>
         </div>
         <p style="margin: 0 0 0;">{{ p.content | strip_html | strip_newlines | truncate: 300 }}</p>
 

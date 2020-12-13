@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Anthropology | No Quarter November
+title: Anthropology
 author: Chris Carter
+tags: [No Quarter November]
 ---
 
 Jonathan Edwards wrote and preached about Hell so much because he had his anthropology right.

@@ -1,7 +1,8 @@
 ---
-title: Obey (Christ's) Government | No Quarter November
+title: Obey (Christ's) Government
 author: Chris Carter
 layout: post
+tags: [No Quarter November]
 ---
 
 In a recent conversation, a left-wing friend of mine said that people who say "racist things" should be physically punished for their actions, as they likely will not repent of their evil speech unless they are imprisoned (or worse). This was telling, to me, of the worldview of the Left. A non-leftist who believes in the First Amendment (freedom of speech and expression) would want to engage a racist in their evil and folly by means of civil discussion, debate, and open dialogue, for the benefit of showing them the error and malevolence of their ideas. The Left, by contrast, sees the First Amendment of the constitution as a hindrance to bringing about the political and social change they see fit. Non-leftists believe that the right to freedom of speech, expression, and assembly are essential liberties which must be protected in all circumstances (even circumstances where someone says something which is evil or sinful) to the end that civil dialogue is the process by which our nation may arrive at truth. As Christians, we understand that truth belongs to God, and therefore we love the truth. And if we love the truth, we must also love the right to gather for the sake of freely expressing ideas to the end of arriving at the truth.

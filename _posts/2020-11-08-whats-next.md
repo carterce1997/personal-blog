@@ -1,7 +1,8 @@
 ---
-title: What's Next? | The Benedictine Diaries
+title: What's Next?
 author: Chris Carter
 layout: post
+tags: [The Benedictine Diaries]
 ---
 
 Keeping it quick (it is the Sabbath, after all), but here are some snappy _Pensées_, in [the spirit of the month](https://www.youtube.com/watch?v=nBEnaNOFMR8&ab_channel=CanonPress):

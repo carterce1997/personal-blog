@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Machiavellianism | No Quarter November
+title: Machiavellianism
 author: Chris Carter
+tags: [No Quarter November]
 ---
 
-Some considerations.
+Some considerations:
 
 For the second term in a row polls were forecasting a fairly wide margin of victory for Democrats. Election forecasters Andrew Gelman (an academic influence in my own life) and Nate Silver's (FiveThirtyEight) models predicted a 90% chance of Biden winning the election. Silver's model predicted an average of a 150 electoral vote difference between Biden and Trump. Other models made similar claims about Hillary Clinton's chances and margins of winning the 2016 presidential election. Now, I'm also privy to fact that low probability events can occur and do occur all the time. I'm also aware that probabilities are subjective, meaning that the choice of probability model and the choice of data matters directly affects the determination of the probability. That said, the forecasters have been consistently wrong on the margin of victory and on the prediction of an actual win, so they are either picking bad models or using bad data. I've personally read over the model specifications for some of these things, and I don't see any glaring biases or incongruencies that would affect a prediction this badly. Most statistical models are designed to be flexible to the data. Instead, I think this is a case of garbage in, garbage out, meaning that I think it's the fault of the polls. FiveThirtyEight national poll averages showed anywhere from an 8% to 10% spread between Biden and Trump leading up to the election. Biden was clearly favored to have a landslide victory. Popular vote counts, as of today, show a 2.4% spread in favor, and a nail biting election that we still aren't sure the outcome of. In 2016, the results were even more dramatic, all to ask: how much do you actually trust the polls? How much do you trust the mainstream media? Why are they so fundamentally untrustworthy and unrepresentative of reality? What even _is_ a poll?
 
