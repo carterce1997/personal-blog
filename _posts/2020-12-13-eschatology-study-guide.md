@@ -1,10 +1,10 @@
 ---
-title: An Eschatological Study Guide
+title: An Eschatology Study Guide
 author: Chris Carter
 layout: post
 ---
 
-Things have been spotty on here for a number of reasons, but mostly because I'm attempting a bit of a new project. A lot of what I do on here, though somewhat intellectual, is fairly casual. For the sake of having fun, that's great, but it's not so great for developing as a writer. I decided a few weeks ago to embark on something a little more ambitious, formal, and rigorous, namely a semi-extensive exposition of the eschatology of Christmas. It's been a new challenge for me, and a lot of my writing energy has been going that direction lately, so I apologize for spotty progress over here. I hope to publish that here on Christmas day, and maybe share it via email to some of my friends. If you'd like an email, fill out the contact form on my page or donate a coffee at the link above. I won't spam you, I promise.
+Things have been spotty on here for a number of reasons, but mostly because I'm attempting a bit of a new project. A lot of what I do on here, though somewhat intellectual, is fairly casual. For the sake of having fun, that's great, but it's not so great for developing as a writer. I decided a few weeks ago to embark on something a little more ambitious, formal, and rigorous, namely a semi-extensive exposition of the eschatology of Christmas (eschatology, by the way, is the study of "last things"). It's been a new challenge for me, and a lot of my writing energy has been going that direction lately, so I apologize for spotty progress over here. I hope to publish that here on Christmas day, and maybe share it via email to some of my friends. If you'd like an email, fill out the contact form on my page or donate a coffee at the link above. I won't spam you, I promise.
 
 The whole process of preparation and research for this project has been nothing short of a rich time of revelation from the scriptures. Many things are clicking together as a result of this research, and though not all of the details are ironed out quite yet, I'm settling on a distinctly partial-preterist postmillennialist (read: profoundly optimistic) theory of historical progression from the cross to the eschaton. This essay is almost entirely a meditation on scripture, and I believe scripture presents this position, or something close to it. As such, I'd like to share some of my mental notes below for those who are interested in how I'm approaching the study of eschatology.
 
@@ -28,4 +28,4 @@ _Matthew 28_. What is the Great Commission, and what does Jesus say about the au
 
 _Other Questions_. After reading these passages, is scripture pessimistic about the future, or optimistic? Where is the kingdom of heaven and what is it doing? How has the course of history and Christianity looked over the past 2000 years? Where is the general trend of history headed?
 
-That's enough for now. Cheers. 
+That's enough for now. Cheers.
