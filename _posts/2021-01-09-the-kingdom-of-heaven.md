@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Kingdom of Heaven: Daniel 2 and 7
+title: The Kingdom of Heaven - Daniel 2 and 7
 author: Chris Carter
 published: false
 ---
