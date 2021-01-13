@@ -2,7 +2,6 @@
 layout: post
 title: The Kingdom of Heaven - Daniel 2 and 7
 author: Chris Carter
-published: false
 ---
 
 As I have said before, the study of eschatology does not begin with ends. It would be unreasonable to expect that we could understand the end of a book without understanding its beginning and middle too. And so, I'll be starting in the middle today, by investigating a set of passages from the book of Daniel that center around the concept of "The kingdom of heaven". A good deal of eschatological study is trying to nail down what scripture teaches us about what the kingdom of heaven is, where it is, whose it is, where it is headed, etc. Someone who calls themselves a king, lest he be a lunatic, has a kingdom _somewhere_, after all. If we call someone a king, we ought to also know where his kingdom is. My essay [The Eschatology of Christmas](https://chrisevancarter.com/2020/12/25/the-eschatology-of-christmas) is my first and feeble attempt to exalt Christ as the King who came in the flesh to win and to rule the Kingdom of Heaven, to the end that if we know our King, we ought to understand what His Kingdom is like too. This post, and hopefully many others, build upon that.
