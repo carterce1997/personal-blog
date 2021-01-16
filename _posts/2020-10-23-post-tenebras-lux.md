@@ -3,6 +3,7 @@ layout: post
 author: Chris Carter
 title: Post Tenebras Lux
 tags: [The Benedictine Diaries]
+published: false
 ---
 
 I often oversleep. On those days, being late to work is worth skipping a few waking minutes of existence.

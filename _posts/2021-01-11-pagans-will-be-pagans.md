@@ -3,6 +3,7 @@ layout: post
 title: Pagans will be Pagans
 author: Chris Carter
 tags: [The Benedictine Diaries]
+published: false
 ---
 
 I'm currently working on a little eschatological exposition of Daniel 2 and 7, but I figured I'd give a brief analysis of the chaos we are find ourselves in right now. The gist of it, Biblically, is that this is what a nation that has rejected the Triune God looks like. Without a transcendent Lawgiver and Judge who holds us accountable for our actions, society devolves into a collection of foolish and selfish individuals who only "do what is right in their own eyes" (Judges 21:25). This is because our first father Adam was created by God to rule in God's way, but Adam chose to rule in his own way. We are by nature sons of Adam, and just as we have inherited the sin of Adam by birth, so we imitate his sin with our own copycat sins (Romans 5:12-14). This results in us making gods of ourselves, which, ironically, means that we will submit to the rule of anything except the Law of our Creator. Every son of Adam is a god unto himself; a pathetic god, who believes himself to be the crown jewel of all creation, yet with no actual power or will to do anything except become drunk on his own selfish passions. This is what the Bible means when it says man is "useless" and "there is none who does good" (Romans 3:12). The restoration of man from this useless state is the work of Christ in His elect in history.
