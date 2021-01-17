@@ -1,6 +1,6 @@
 ---
 author: Chris Carter
-title: This Generation - Matthew 23 and 24
+title: "This Generation - Matthew 23:31-24:2"
 layout: post
 ---
 
