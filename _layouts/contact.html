@@ -2,61 +2,63 @@
 layout: default
 ---
 
-{{ content }}
+<section class="section">
 
-<br>
+  <p>{{ content }}</p>
 
-<div class="columns is-mobile">
-  <div class="column"></div>
+  <div class="columns">
+    <div class="column"></div>
 
-  <div class="column is-two-thirds">
-    <form name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true" netlify>
-      <div class="field">
-        <label class="label">Name</label>
-        <div class="control has-icons-left has-icons-right">
-          <input class="input" type="text" name="name" placeholder="Your name">
-          <span class="icon is-small is-left">
-            <i class="fas fa-user"></i>
-          </span>
+    <div class="column is-two-thirds">
+      <form name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true" netlify>
+        <div class="field">
+          <label class="label">Name</label>
+          <div class="control has-icons-left has-icons-right">
+            <input class="input" type="text" name="name" placeholder="Your name">
+            <span class="icon is-small is-left">
+              <i class="fas fa-user"></i>
+            </span>
+          </div>
         </div>
-      </div>
 
-      <div class="field">
-        <label class="label">Email</label>
-        <div class="control has-icons-left has-icons-right">
-          <input class="input" type="email" name="email" placeholder="Email address">
-          <span class="icon is-small is-left">
-            <i class="fas fa-envelope"></i>
-          </span>
+        <div class="field">
+          <label class="label">Email</label>
+          <div class="control has-icons-left has-icons-right">
+            <input class="input" type="email" name="email" placeholder="Email address">
+            <span class="icon is-small is-left">
+              <i class="fas fa-envelope"></i>
+            </span>
+          </div>
         </div>
-      </div>
 
-      <div class="field">
-        <label class="label">Subject</label>
-        <div class="control">
-          <input class="input" type="text" name="subject" placeholder="Email subject">
+        <div class="field">
+          <label class="label">Subject</label>
+          <div class="control">
+            <input class="input" type="text" name="subject" placeholder="Email subject">
+          </div>
         </div>
-      </div>
 
-      <div class="field">
-        <label class="label">Message</label>
-        <div class="control">
-          <textarea class="textarea" placeholder="Message" name="message"></textarea>
+        <div class="field">
+          <label class="label">Message</label>
+          <div class="control">
+            <textarea class="textarea" placeholder="Message" name="message"></textarea>
+          </div>
         </div>
-      </div>
 
-      <div data-netlify-recaptcha="true"></div>
-      <br>
 
-      <div class="field">
-        <div class="control has-text-centered">
-          <button type="submit" class="button">Submit</button>
+        <div class="container has-text-centered" data-netlify-recaptcha="true"></div>
+
+        <div class="field">
+          <div class="control has-text-centered">
+            <button type="submit" class="button">Submit</button>
+          </div>
         </div>
-      </div>
 
-    </form>
+      </form>
 
+    </div>
+
+    <div class="column"></div>
   </div>
 
-  <div class="column"></div>
-</div>
+</section>
