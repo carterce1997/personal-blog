@@ -1,5 +1,5 @@
 ---
-title: "A Melting Solar System - Matt 24:29"
+title: "A Melting Solar System - Matthew 24:29"
 author: Chris Carter
 layout: post
 ---
@@ -14,4 +14,4 @@ _For the stars of heaven and their constellations will not flash their light; th
 
 In fact, scripture _always_ uses de-creation language like this to refer to the destruction of a city or a nation. _Always_. This is because, roughly, celestial bodies refer to rulers and other governing authorities, and so falling stars, blackened moons, and darkened suns would indicate the complete undoing of the social and political order; when it's all over with, there isn't a single piece of the old system that hasn't been toppled out of place. Jesus knew this (duh), and intentionally used this language to signify exactly what He was talking about: specifically, the siege and destruction of Jerusalem, the demolishment of the Temple within her walls, and the diaspora of the remaining Jews who rejected Christ. Like Babylon, Jerusalem had to be overturned; the old Judaic aeon had to end in order to make way for the new Christian aeon.
 
-More on that last part later. 
+More on that last part later.
