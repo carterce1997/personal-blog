@@ -1,0 +1,31 @@
+
+<!-- Paginator -->
+<div class="columns is-mobile">
+
+  <div class="column">
+    {% if page.previous.url %}
+      <div class="container">
+        <a href="{{ page.previous.url | prepend: site.baseurl }}">
+          <p class="title is-5" style="margin: 0 0 0 0">
+            {{ page.previous.title }}
+          </p>
+        </a>
+        <p class="subtitle is-6">{{ page.previous.date | date: "%B %-d, %Y" }}</p>
+      </div>
+    {% endif %}
+  </div>
+
+  <div class="column">
+    {% if page.next.url %}
+      <div class="container" style="text-align:right">
+        <a href="{{ page.next.url | prepend: site.baseurl }}">
+          <p class="title is-5" style="margin: 0 0 0 0">
+            {{ page.next.title }}
+          </p>
+        </a>
+        <p class="subtitle is-6">{{ page.next.date | date: "%B %-d, %Y" }}</p>
+      </div>
+    {% endif %}
+  </div>
+
+</div>

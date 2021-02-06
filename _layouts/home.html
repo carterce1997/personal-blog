@@ -4,50 +4,9 @@ layout: default
 
 <section class="section">
 
-  {% for p in site.posts limit: 1 %}
-
-    <div class="columns">
-
-      {% if p.image and p.image != '' %}
-
-        <div class="column is-one-third">
-          <figure class = "figure">
-            <img src="{{ p.image }}" alt="">
-          </figure>
-        </div>
-
-      {% endif %}
-
-      {% capture wordcount %}
-        {{ p.content | number_of_words }}
-      {% endcapture %}
-
-      <div class="column">
-
-        <!-- Post title -->
-        <div class="container has-text-centered">
-          <a class="title is-6" href="{{ p.url }}">{{ p.title }}</a>
-          <p style="margin: 0 0">
-            {{ p.date | date: "%B %-d, %Y" }} &middot
-            {{ wordcount | divided_by: 200 }} min read
-          </p>
-          {% if post.tags.size > 0 %}
-            <p style="margin: 0 0">{{ post.tags | join: " &middot " }}</p>
-          {% else %}
-            <p style="margin: 0 0"> &middot &middot &middot </p>
-          {% endif %}
-        </div>
-        <p style="margin: 0 0 0;">{{ p.content | strip_html | strip_newlines | truncate: 300 }}</p>
-
-      </div>
-
-    </div>
-
-  {% endfor %}
-
-  {% assign rows = 3 %}
+  {% assign rows = 4 %}
   {% for i in (1..rows) %}
-    {% assign offset = forloop.index0 | times: 2 | plus: 1 %}
+    {% assign offset = forloop.index0 | times: 2 | plus: 0 %}
 
     <div class="columns">
       {% for post in site.posts limit:2 offset:offset %}
@@ -58,7 +17,7 @@ layout: default
 
         <div class="column">
           <div class="container has-text-centered">
-            <a class="title is-6" href="{{ post.url }}">{{ post.title }}</a>
+            <a class="title is-5" href="{{ post.url }}">{{ post.title }}</a>
             <p class="is-size-6" style="margin: 0 0">
               {{ post.date | date: "%B %-d, %Y" }} &middot
               {{ wordcount | divided_by: 200 }} min read
@@ -69,7 +28,7 @@ layout: default
               <p style="margin: 0 0"> &middot &middot &middot </p>
             {% endif %}
           </div>
-          <p class="is-size-6" style="margin: 0 0 0;">{{ post.content | strip_html | strip_newlines | truncate: 200 }}</p>
+          <p class="is-size-6" style="margin: 0 0 0;">{{ post.content | strip_html | strip_newlines | truncate: 300 }}</p>
         </div>
       {% endfor %}
     </div>
