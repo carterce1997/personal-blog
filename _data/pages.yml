@@ -11,3 +11,6 @@
 
 - name: Subscribe
   link: /subscribe/
+
+- name: About
+  link: /about/

@@ -4,12 +4,12 @@ layout: default
 
 <section class="section">
 
-  <p>{{ content }}</p>
-
   <div class="columns">
     <div class="column"></div>
 
     <div class="column is-half">
+      <p>{{ content }}</p>
+
       <form name="subscribe" method="POST" data-netlify-recaptcha="true" data-netlify="true" netlify>
         <div class="field">
           <div class="control has-icons-left has-icons-right">
@@ -25,7 +25,7 @@ layout: default
         </div>
 
         <br>
-        
+
         <div class="field">
           <div class="control has-text-centered">
             <button type="submit" class="button">Subscribe</button>
