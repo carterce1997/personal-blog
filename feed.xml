@@ -22,7 +22,7 @@ layout: null
     </itunes:owner>
     <itunes:image href="{{ site.url }}{{ site.baseurl }}/assets/img/podcast_image.png"/>
     <itunes:category text="Religion &#169; Spirituality">
-      <itunes:category text="Christianity">
+      <itunes:category text="Christianity"></itunes:category>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <generator>Jekyll v{{ jekyll.version }}</generator>
