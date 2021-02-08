@@ -22,9 +22,7 @@ layout: default
 
       {% if page.audio %}
         <div class="container has-text-centered">
-          <audio controls>
-            <source src="{{ page.audio }}" type="audio/mpeg">
-            Your browser does not support audio.
+          <audio src = "{{ page.audio }}" controls>
           </audio>
         </div>
         <br>
