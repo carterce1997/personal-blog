@@ -11,7 +11,6 @@ layout: null
     <itunes:author>{{ site.author }}</itunes:author>
     <description>
       {{ site.description }}
-      <content:encoded>
     </description>
     <itunes:summary>
       {{ site.description }}
@@ -35,10 +34,10 @@ layout: null
         <item>
           <title>{{ post.title }}</title>
           <link>{{ site.url }}{{ site.baseurl }}{{ post.url }}</link>
+          <description>{{ post.description }}</description>
           <itunes:episodeType>full</itunes:episodeType>
           <itunes:title>{{ post.title }}</itunes:title>
           <itunes:author>{{ site.author }}</itunes:author>
-          <description>{{ post.description }}</description>
           <enclosure
             length="498537"
             type="audio/mpeg"
