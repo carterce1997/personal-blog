@@ -11,10 +11,15 @@ layout: null
     <itunes:author>{{ site.author }}</itunes:author>
     <description>
       {{ site.description }}
+      <content:encoded>
     </description>
+    <itunes:summary>
+      {{ site.description }}
+    </itunes:summary>
     <itunes:type>serial</itunes:type>
     <itunes:owner>
       <itunes:name>{{ site.title }}</itunes:name>
+      <itunes:email>{{ site.email }}</itunes:email>
     </itunes:owner>
     <itunes:image
       href="https://applehosted.podcasts.apple.com/hiking_treks/artwork.png"
@@ -24,11 +29,15 @@ layout: null
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <generator>Jekyll v{{ jekyll.version }}</generator>
+    {% assign episode = 1 %}
     {% for post in site.posts %}
       {% if post.audio %}
         <item>
+          <title>{{ post.title }}</title>
+          <link>{{ site.url }}{{ site.baseurl }}{{ post.url }}</link>
           <itunes:episodeType>full</itunes:episodeType>
           <itunes:title>{{ post.title }}</itunes:title>
+          <itunes:author>{{ site.author }}</itunes:author>
           <description>{{ post.description }}</description>
           <enclosure
             length="498537"
@@ -37,9 +46,11 @@ layout: null
           />
           <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
           <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+          <itunes:episode>{{ episode }}</itunes:episode>
           <itunes:duration>1079</itunes:duration>
           <itunes:explicit>false</itunes:explicit>
         </item>
+        {% assign episode = episode | plus:1 %}
       {% endif %}
     {% endfor %}
   </channel>
