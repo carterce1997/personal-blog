@@ -5,7 +5,7 @@ layout: null
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>{{ site.title }}</title>
-    <link>https://www.apple.com/itunes/podcasts/</link>
+    <link>{{ site.url }}</link>
     <language>en-us</language>
     <copyright>&#169; {{ site.copyright }}</copyright>
     <itunes:author>{{ site.author }}</itunes:author>
@@ -20,12 +20,8 @@ layout: null
       <itunes:name>{{ site.title }}</itunes:name>
       <itunes:email>{{ site.email }}</itunes:email>
     </itunes:owner>
-    <itunes:image
-      href="https://applehosted.podcasts.apple.com/hiking_treks/artwork.png"
-    />
-    <itunes:category text="Sports">
-      <itunes:category text="Wilderness"/>
-    </itunes:category>
+    <itunes:image href="{{ site.url }}{{ site.baseurl }}/android-chrome-512x512.png"/>
+    <itunes:category text="Theology"></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <generator>Jekyll v{{ jekyll.version }}</generator>
     {% assign episode = 1 %}
