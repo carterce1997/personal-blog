@@ -1,5 +1,8 @@
 
 title: C.E. Carter
+author: C.E. Carter
+
+description: Reformed and Postmillenial study notes, essays, commentary, and other prose.
 
 url: https://chrisevancarter.com
 
@@ -7,8 +10,4 @@ auto: true
 markdown: kramdown
 permalink: /:year/:month/:day/:title
 
-plugins:
-  - jekyll-feed
-
-feed:
-  excerpt_only: true
+copyright: 2021 Christopher Carter
