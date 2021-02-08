@@ -21,12 +21,11 @@ layout: null
       <itunes:email>{{ site.email }}</itunes:email>
     </itunes:owner>
     <itunes:image href="{{ site.url }}{{ site.baseurl }}/assets/img/podcast_image.png"/>
-    <itunes:category text="Religion &#169; Spirituality">
+    <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"></itunes:category>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% assign episode = 1 %}
     {% for post in site.posts %}
       {% if post.audio %}
         <item>
@@ -43,11 +42,9 @@ layout: null
           />
           <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
           <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-          <itunes:episode>{{ episode }}</itunes:episode>
-          <itunes:duration>1079</itunes:duration>
+          <itunes:episode>1</itunes:episode>
           <itunes:explicit>false</itunes:explicit>
         </item>
-        {% assign episode = episode | plus:1 %}
       {% endif %}
     {% endfor %}
   </channel>
