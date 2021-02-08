@@ -20,8 +20,10 @@ layout: null
       <itunes:name>{{ site.title }}</itunes:name>
       <itunes:email>{{ site.email }}</itunes:email>
     </itunes:owner>
-    <itunes:image href="{{ site.url }}{{ site.baseurl }}/android-chrome-512x512.png"/>
-    <itunes:category text="Theology"></itunes:category>
+    <itunes:image href="{{ site.url }}{{ site.baseurl }}/assets/img/podcast_image.png"/>
+    <itunes:category text="Religion &#169; Spirituality">
+      <itunes:category text="Christianity">
+    </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <generator>Jekyll v{{ jekyll.version }}</generator>
     {% assign episode = 1 %}
