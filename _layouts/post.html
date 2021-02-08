@@ -10,26 +10,8 @@ layout: default
 <section class="section">
   <!-- Post header: title, author, date, anchor link if applicable -->
   <header>
-    {% if page.anchor_link %}
 
-      <div class="container" style="text-align:center">
-        <p class="title is-4">{{ page.title }}</p>
-        <p class="subtitle is-6">
-          {{ page.author }} &middot
-          {{ page.date | date: "%B %-d, %Y" }}
-          {% if p.tags.size > 0 %} &middot {{ p.tags | join: " &middot " }} {% endif %}
-        </p>
-      </div>
-
-      <div class="container" align="center">
-        <a class="button is-success" target="_blank" href="{{ page.anchor_link }}">Listen Now</a>
-      </div>
-
-      <br>
-
-    {% else %}
-
-      <div class="container" style="text-align:center">
+      <div class="container has-text-centered">
         <p class="title is-4">{{ page.title }}</p>
         <p class="subtitle is-6">{{ page.date | date: "%B %-d, %Y" }}</p>
       </div>
@@ -38,7 +20,20 @@ layout: default
         <img src="{{ page.image }}" alt="{{ page.caption }}" style="width:300px; margin: 0px 20px 20px 0px;" align ="left">
       {% endif %}
 
-    {% endif %}
+      {% if page.audio %}
+        <div class="container has-text-centered">
+          <audio controls>
+            <source src="{{ page.audio }}" type="audio/mpeg">
+            Your browser does not support audio.
+          </audio>
+        </div>
+        <br>
+      {% endif %}
+
+      {% if page.anchor_link %}
+
+      {% endif %}
+
   </header>
 
   <!-- Post body: content and paginator -->
