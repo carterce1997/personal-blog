@@ -2,6 +2,7 @@
 author: Chris Carter
 title: "This Generation - Matthew 23:31-24:2"
 layout: post
+audio: /assets/audio/CEC-01-15-2021.mp3
 ---
 
 One of the strongest arguments for the historicity and divine inspiration of the New Testament manuscripts is known as the Olivet Discourse, so-called because it was given by Jesus to His disciples on the Mount of Olives (Matthew 24:3). In this discourse outlined in Matthew 24, Luke 21, and Mark 13, Jesus predicts that the destruction of Jerusalem and the Second Temple would occur "in this generation" (Matthew 24:34), referring of course to the generation _He_ was in. Indeed, in A.D. 66 the Roman province of Judea, a Jewish population, revolted against the Roman Empire, resulting in what is now called the first Jewish-Roman War, which culminated in A.D. 70 with the city of Jerusalem being laid under siege, invaded, and sacked by the Romans. The Jewish historian Josephus records that Jerusalem, and her Temple, were leveled in the conflict, confirming the accuracy and significance of Jesus' predictions.
