@@ -12,8 +12,9 @@ layout: default
   <header>
 
       <div class="container has-text-centered">
-        <p class="title is-4">{{ page.title }}</p>
-        <p class="subtitle is-6">{{ page.date | date: "%B %-d, %Y" }}</p>
+        <p class="title is-4" style="margin: 0 0">{{ page.title }}</p>
+        <p class="subtitle is-6" style="margin: 0 0">{{ page.date | date: "%B %-d, %Y" }}</p>
+        <p class="subtitle is-6">by {{ site.author }}</p>
       </div>
 
       {% if page.image %}
