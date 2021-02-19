@@ -36,7 +36,6 @@ layout: null
           <itunes:title>{{ post.title }}</itunes:title>
           <itunes:author>{{ site.author }}</itunes:author>
           <enclosure
-            length="498537"
             type="audio/mpeg"
             url="{{ site.url }}{{ site.baseurl }}{{ post.audio }}"
           />
