@@ -42,7 +42,7 @@ layout: null
           />
           <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
           <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-          <itunes:episode>1</itunes:episode>
+          <itunes:episode>{{ post.episode }}</itunes:episode>
           <itunes:explicit>false</itunes:explicit>
         </item>
       {% endif %}
