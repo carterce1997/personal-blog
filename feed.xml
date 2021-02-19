@@ -25,7 +25,7 @@ layout: null
       <itunes:category text="Christianity"></itunes:category>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
-    {% for post in site.posts reversed %}
+    {% for post in site.posts %}
       {% if post.audio %}
         <item>
           <title>{{ post.title }}</title>
