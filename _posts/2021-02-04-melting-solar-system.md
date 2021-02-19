@@ -2,7 +2,7 @@
 title: "A Melting Solar System - Matthew 24:29"
 author: Chris Carter
 layout: post
-audio: /assets/audio/CEC-2-4-2021.mp3
+audio: true
 ---
 
 _"But immediately after the tribulation of those days, the sun will be darkened, the moon will not give its light, and the stars will fall from the sky, and the powers of the heavens will be shaken."_ (Matthew 24:29)

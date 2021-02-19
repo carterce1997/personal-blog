@@ -21,16 +21,9 @@ layout: default
             <a class="title is-5" href="{{ post.url }}">{{ post.title }}</a>
             <p class="is-size-6" style="margin: 0 0">
               {{ post.date | date: "%B %-d, %Y" }} &middot
+              {{ site.author }} &middot
               {{ wordcount | divided_by: 200 }} min read
             </p>
-            <p class="is-size-6" style="margin: 0 0">
-              by {{ site.author }}
-            </p>
-            {% if post.tags.size > 0 %}
-              <p style="margin: 0 0">{{ post.tags | join: " &middot " }}</p>
-            {% else %}
-              <p style="margin: 0 0"> &middot &middot &middot </p>
-            {% endif %}
           </div>
           <p class="is-size-6" style="margin: 0 0 0;">{{ post.content | strip_html | strip_newlines | truncate: 300 }}</p>
         </div>

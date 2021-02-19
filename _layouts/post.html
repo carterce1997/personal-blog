@@ -11,27 +11,21 @@ layout: default
   <!-- Post header: title, author, date, anchor link if applicable -->
   <header>
 
-      <div class="container has-text-centered">
-        <p class="title is-4" style="margin: 0 0">{{ page.title }}</p>
-        <p class="subtitle is-6" style="margin: 0 0">{{ page.date | date: "%B %-d, %Y" }}</p>
-        <p class="subtitle is-6">by {{ site.author }}</p>
-      </div>
-
-      {% if page.image %}
-        <img src="{{ page.image }}" alt="{{ page.caption }}" style="width:300px; margin: 0px 20px 20px 0px;" align ="left">
-      {% endif %}
+    <div class="container has-text-centered">
+      <p class="title is-4" style="margin: 0 0 0.5em 0">{{ page.title }}</p>
+      <p class="subtitle is-6" style="margin: 0 0 1em 0">{{ page.date | date: "%B %-d, %Y" }} by {{ site.author }}</p>
 
       {% if page.audio %}
-        <div class="container has-text-centered">
-          <audio src = "{{ page.audio }}" controls>
-          </audio>
-        </div>
-        <br>
+        <a href="{{ site.spotify }}" target="_blank">
+          <img class="image is-inline-block" src="/assets/img/spotify/PNG/spotify-podcast-badge-wht-blk-165x40.png" alt="">
+        </a>
       {% endif %}
 
-      {% if page.anchor_link %}
+    </div>
 
-      {% endif %}
+    {% if page.image %}
+      <img src="{{ page.image }}" alt="{{ page.caption }}" style="width:300px; margin: 0px 20px 20px 0px;" align ="left">
+    {% endif %}
 
   </header>
 
