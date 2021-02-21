@@ -1,16 +1,16 @@
-
 # - name: Archive
 #   link: /archive/
 
 - name: Write Me
   link: /write-me/
 
+- name: About
+  link: /about/
+
 - name: Coffee
   link: https://www.buymeacoffee.com/chrisevancarter
   external: true
 
-# - name: Subscribe
-#   link: /subscribe/
-
-- name: About
-  link: /about/
+- name: Listen
+  link: https://open.spotify.com/show/07Cs1dMToRqjYoestMe13W
+  external: true
