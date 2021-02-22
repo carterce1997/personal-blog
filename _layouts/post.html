@@ -2,50 +2,21 @@
 layout: default
 ---
 
-<!-- Post metadata -->
 <head>
   {% include meta.html %}
 </head>
 
-<section class="section">
-  <!-- Post header: title, author, date, anchor link if applicable -->
-  <header>
+<header>
+  <p class="title is-4" style="margin: 0 0 0.5em 0">{{ page.title }}</p>
+  <p class="subtitle is-6" style="margin: 0 0 1em 0">
+    {{ page.date | date: "%B %-d, %Y" }} by {{ site.author }} {% if page.spotify %} &middot; <a target="_blank" href="{{ site.spotify }}">Listen on Spotify</a>{% endif %}
+  </p>
+</header>
 
-    <div class="container has-text-centered">
-      <p class="title is-4" style="margin: 0 0 0.5em 0">{{ page.title }}</p>
-      <p class="subtitle is-6" style="margin: 0 0 1em 0">{{ page.date | date: "%B %-d, %Y" }} by {{ site.author }}</p>
+<body>
+  {{ content }}
 
-      {% if page.spotify %}
-        <a href="{{ site.spotify }}" target="_blank">
-          <img class="image is-inline-block" src="/assets/img/spotify/PNG/spotify-podcast-badge-wht-blk-165x40.png" alt="">
-        </a>
-      {% endif %}
+  <hr>
 
-    </div>
-
-    {% if page.image %}
-      <img src="{{ page.image }}" alt="{{ page.caption }}" style="width:300px; margin: 0px 20px 20px 0px;" align ="left">
-    {% endif %}
-
-  </header>
-
-  <!-- Post body: content and paginator -->
-  <body>
-    <div class="columns">
-      <div class="column"></div>
-      <div class="column is-three-quarters">
-        {{ content }}
-
-        <hr>
-
-        {% include paginator.html %}
-
-      </div>
-      <div class="column">
-
-      </div>
-    </div>
-
-
-  </body>
-</section>
+  {% include paginator.html %}
+</body>

@@ -4,37 +4,35 @@
 
   {% include head.html %}
 
-  <header class="header">
-    <nav>
-      <div class="container has-text-centered">
-        <br>
-
-        <a class="title is-3" href="/">{{ site.title }}</a>
-        <br>
-
-        <p style="margin: 0 0 0 0">
-          {% for page in site.data.pages %}
-            <a class="subtitle is-6" target="{% if page.external %} _blank {% endif %}" href="{{ page.link }}">{{ page.name }}</a>
-            {% if forloop.last == false %}
-              &middot;
-            {% endif %}
-          {% endfor %}
-        </p>
-      </div>
-    </nav>
+  <header>
+    <div class="container has-text-centered">
+      <br>
+      <a class="title is-3" style="margin: 0 0" href="/">{{ site.title }}</a>
+      <p style="margin: 0 0 0 0">
+        {{ site.description }}
+      </p>
+    </div>
   </header>
 
   <body>
-    <div class="columns">
-      <!-- Filler column -->
-      <div class="column"></div>
-      <!-- Center content column -->
-      <div class="column is-full-mobile is-three-quarters-tablet is-three-quarters-desktop is-three-quarters-widescreen is-three-quarters-fullhd">
+    <section class="section">
+      <div class="columns">
+
+        <div class="column"></div>
+
+        <div class="column is-full-mobile is-6-tablet is-6-desktop is-6-widescreen is-6-fullhd">
           {{ content }}
+        </div>
+
+        <div class="column is-2">
+          {% include sidebar.html %}
+        </div>
+
+        <div class="column"></div>
+
       </div>
-      <!-- Filler column -->
-      <div class="column"></div>
-    </div>
+    </section>
+
   </body>
 
   <footer style="padding: 2rem 3rem" class="footer has-background-white">
@@ -47,5 +45,5 @@
 
     </div>
   </footer>
-  
+
 </html>

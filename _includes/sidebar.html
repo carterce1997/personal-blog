@@ -1,0 +1,19 @@
+
+{% for page in site.data.pages %}
+  <!-- <div class="container has-text-centered"> -->
+    <a target="{% if page.external %} _blank {% endif %}" href="{{ page.link }}">
+      <p class="title is-5" style="margin: 0 0 0 0">
+        {{ page.name }}
+      </p>
+    </a>
+
+    <p class="is-size-6" style="margin: 0 0 0 0">
+      {{ page.description }}
+    </p>
+
+    {% unless forloop.last %}
+    <br>
+    {% endunless %}
+
+  <!-- </div> -->
+{% endfor %}

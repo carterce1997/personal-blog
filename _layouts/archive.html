@@ -2,37 +2,17 @@
 layout: default
 ---
 
-<section class="section">
+{% for post in site.posts %}
 
-{% assign rows = site.posts.size | divided_by: 2.0 | ceil %}
-{% for i in (1..rows) %}
-  {% assign offset = forloop.index0 | times: 2 | plus: 0 %}
+  {% capture wordcount %}
+    {{ post.content | number_of_words }}
+  {% endcapture %}
 
-  <div class="columns">
-    {% for post in site.posts limit:2 offset:offset %}
+  <a class="title is-5" style="margin: 0 0 0.5em 0" href="{{ post.url }}">{{ post.title }}</a>
+  <p class="is-size-6" style="margin: 0 0 1em 0">
+    {{ post.date | date: "%B %-d, %Y" }} &middot {{ site.author }} &middot {{ wordcount | divided_by: 200 }} min read
+  </p>
+  <p class="is-size-6" style="margin: 0 0 0">{{ post.content | strip_html | strip_newlines | truncate: 300 }}</p>
 
-      {% capture wordcount %}
-        {{ post.content | number_of_words }}
-      {% endcapture %}
-
-      <div class="column">
-        <div class="container has-text-centered">
-          <a class="title is-5" href="{{ post.url }}">{{ post.title }}</a>
-          <p class="is-size-6" style="margin: 0 0 0">
-            {{ post.date | date: "%B %-d, %Y" }} &middot
-            {{ wordcount | divided_by: 200 }} min read
-          </p>
-          {% if post.tags.size > 0 %}
-            <p style="margin: 0 0">{{ post.tags | join: " &middot " }}</p>
-          {% else %}
-            <p style="margin: 0 0"> &middot &middot &middot </p>
-          {% endif %}
-        </div>
-        <p class="is-size-6" style="margin: 0 0 0;">{{ post.content | strip_html | strip_newlines | truncate: 300 }}</p>
-      </div>
-    {% endfor %}
-  </div>
-
+  <br>
 {% endfor %}
-
-</section>
