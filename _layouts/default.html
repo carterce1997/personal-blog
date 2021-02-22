@@ -4,18 +4,48 @@
 
   {% include head.html %}
 
-  <div class="columns">
-    <!-- Filler column -->
-    <div class="column"></div>
-    <!-- Center content column -->
-    <div class="column is-full-mobile is-three-quarters-tablet is-three-quarters-desktop is-three-quarters-widescreen is-three-quarters-fullhd">
-      {% include header.html %}
-      {% include body.html %}
+  <header class="header">
+    <nav>
+      <div class="container has-text-centered">
+        <br>
+
+        <a class="title is-3" href="/">{{ site.title }}</a>
+        <br>
+
+        <p style="margin: 0 0 0 0">
+          {% for page in site.data.pages %}
+            <a class="subtitle is-6" target="{% if page.external %} _blank {% endif %}" href="{{ page.link }}">{{ page.name }}</a>
+            {% if forloop.last == false %}
+              &middot;
+            {% endif %}
+          {% endfor %}
+        </p>
+      </div>
+    </nav>
+  </header>
+
+  <body>
+    <div class="columns">
+      <!-- Filler column -->
+      <div class="column"></div>
+      <!-- Center content column -->
+      <div class="column is-full-mobile is-three-quarters-tablet is-three-quarters-desktop is-three-quarters-widescreen is-three-quarters-fullhd">
+          {{ content }}
+      </div>
+      <!-- Filler column -->
+      <div class="column"></div>
     </div>
-    <!-- Filler column -->
-    <div class="column"></div>
-  </div>
+  </body>
 
-  {% include footer.html %}
+  <footer style="padding: 2rem 3rem" class="footer has-background-white">
+    <div class="container has-text-centered">
 
+      <!-- RSS Feed -->
+      <a href="{{ site.baseurl }}/feed.xml">
+        <i class="fa-rss fa"></i>
+      </a>
+
+    </div>
+  </footer>
+  
 </html>
