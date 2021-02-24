@@ -9,12 +9,8 @@
   link: /archive/
   description: Read older posts.
 
-# - name: About
-#   link: /about/
-
-
 - name: Coffee
-  link: https://www.buymeacoffee.com/chrisevancarter
+  link: https://www.buymeacoffee.com/cecarter
   external: true
   description: Support my work.
 
