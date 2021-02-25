@@ -3,17 +3,30 @@ layout: default
 ---
 
 
-{% for post in site.posts limit: 4 %}
+{% for post in site.posts limit: 3 %}
 
   {% capture wordcount %}
     {{ post.content | number_of_words }}
   {% endcapture %}
 
-  <a class="title is-5" style="margin: 0 0 0.5em 0" href="{{ post.url }}">{{ post.title }}</a>
-  <p class="is-size-6" style="margin: 0 0 1em 0">
-    {{ post.date | date: "%B %-d, %Y" }} &middot {{ site.author }} &middot {{ wordcount | divided_by: 200 }} min read
+  <a href="{{ post.url }}">
+    <p class="title is-4" style="margin: 0 0 .2em 0">
+      {{ post.title }}
+    </p>
+  </a>
+  <p class="is-size-6" style="margin: 0 0 0 0">
+    {{ post.date | date: "%B %-d, %Y" }}
+    &middot {{ site.author }}
+    &middot {{ wordcount | divided_by: 200 }} min read
   </p>
-  <p class="is-size-6" style="margin: 0 0 0">{{ post.content | strip_html | strip_newlines | truncate: 300 }}</p>
+  <p class="is-size-6" style="margin: 0 0 0 0">
+    {% if post.podcast %}
+      <a target="_blank" href="{{ site.spotify }}">Spotify</a>
+      &middot; <a target="_blank" href="{{ site.apple_podcasts }}">Apple Podcasts</a>
+    {% endif %}
+  </p>
+  <p class="is-size-6">
+    {{ post.content | strip_html | strip_newlines | truncate: 300 }}
+  </p>
 
-  <br>
 {% endfor %}

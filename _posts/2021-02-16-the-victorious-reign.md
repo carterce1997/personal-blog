@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Victorious Reign of Christ - Matthew 24:30
-spotify: true
+podcast: true
 ---
 
 _And then the sign of the Son of Man will appear in the sky, and then all the tribes of the earth will mourn, and they will see the Son of Man coming on the clouds of the sky with power and great glory._ (Matthew 24:30)

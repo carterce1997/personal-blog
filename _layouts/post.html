@@ -6,17 +6,24 @@ layout: default
   {% include meta.html %}
 </head>
 
-<header>
-  <p class="title is-4" style="margin: 0 0 0.5em 0">{{ page.title }}</p>
-  <p class="subtitle is-6" style="margin: 0 0 1em 0">
-    {{ page.date | date: "%B %-d, %Y" }} by {{ site.author }} {% if page.spotify %} &middot; <a target="_blank" href="{{ site.spotify }}">Listen on Spotify</a>{% endif %}
+<a href="{{ page.url }}">
+  <p class="title is-4" style="margin: 0 0 .2em 0">
+    {{ page.title }}
   </p>
-</header>
+</a>
+<p class="is-size-6" style="margin: 0 0 0 0">
+  {{ page.date | date: "%B %-d, %Y" }}
+  &middot {{ site.author }}
+</p>
+<p class="is-size-6">
+  {% if page.podcast %}
+    <a target="_blank" href="{{ site.spotify }}">Spotify</a>
+    &middot; <a target="_blank" href="{{ site.apple_podcasts }}">Apple Podcasts</a>
+  {% endif %}
+</p>
 
-<body>
-  {{ content }}
+{{ content }}
 
-  <hr>
+<hr>
 
-  {% include paginator.html %}
-</body>
+{% include paginator.html %}
