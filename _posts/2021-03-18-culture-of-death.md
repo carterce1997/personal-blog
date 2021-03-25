@@ -1,6 +1,7 @@
 ---
 title: A Culture of Death
 layout: post
+podcast: true
 ---
 
 With the recent flurry of news stories around the Equality Act flying around, as well as last week's episode of The Briefing by Al Mohler, we need to consider the theological significance of what's going on. Mohler's treatment of this current event is fantastic, and personally, I wish I could see some more orthodox heat like this from him and the rest of the Southern Baptist Convention more often, and on other issues as well. You have to remove the sticks from the hay, even if there seem to be a lot of sticks in the SBC. You can listen to the episode [here](https://albertmohler.com/2021/03/17/briefing-3-17-21). For those of you who are unaware, the [Equality Act](https://www.congress.gov/bill/116th-congress/house-bill/5/text) (HR5) is a bill that seeks to apply the consequences of the Civil Rights Act of 1964 to LGBTQ+ people, essentially outlawing the ability for Christian institutions like Christians schools to govern themselves according to the Christian worldview. I won't go into the politics of that here; Mohler has already done a great job of examining the issues. What I will do instead is provide a bit of theological backdrop to this controversy.
