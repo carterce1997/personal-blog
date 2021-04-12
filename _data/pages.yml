@@ -11,8 +11,8 @@
   link: https://www.buymeacoffee.com/cecarter
   external: true
 
-- name: Bio
-  link: /bio/
+# - name: Bio
+  # link: /bio/
 
 # - name: Contact
 #   link: /write-me/
