@@ -11,6 +11,14 @@
       <p style="margin: 0 0 0 0">
         {{ site.description }}
       </p>
+      {% for page in site.data.pages %}
+        <a href={{ page.link }} target="{% if page.external %}_blank{% endif %}">
+           {{ page.name }}
+        </a>
+        {% unless forloop.last %}
+          &middot;
+        {% endunless %}
+      {% endfor %}
     </div>
   </header>
 
@@ -20,19 +28,18 @@
 
         <div class="column"></div>
 
-        <div class="column is-full-mobile is-6-tablet is-6-desktop is-6-widescreen is-6-fullhd">
+        <div class="column is-full-mobile is-7-tablet is-7-desktop is-7-widescreen is-7-fullhd">
           {{ content }}
         </div>
 
-        <div class="column is-2">
+        <!-- <div class="column is-2">
           {% include sidebar.html %}
-        </div>
+        </div> -->
 
         <div class="column"></div>
 
       </div>
     </section>
-
   </body>
 
   <footer style="padding: 2rem 3rem" class="footer has-background-white">
