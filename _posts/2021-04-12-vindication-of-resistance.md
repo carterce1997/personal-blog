@@ -1,6 +1,7 @@
 ---
 title: A Vindication of Resistance
 layout: post
+podcast: true
 ---
 
 On the day of the feast of St. Bartholomew in the year 1572, thousands Huguenots were slaughtered in the streets of Paris by mobs of Roman Catholics under the decree of the French monarchy.
