@@ -19,15 +19,20 @@ $section-padding: 1em;
 // Import only what you need from Bulma
 @import "sass/base/_all.sass";
 @import "sass/grid/columns.sass";
+
 @import "sass/elements/container.sass";
 @import "sass/elements/title.sass";
 @import "sass/elements/image.sass";
 @import "sass/elements/button.sass";
 @import "sass/elements/icon.sass";
 @import "sass/elements/box.sass";
+@import "sass/elements/progress.sass";
+
 @import "sass/layout/section.sass";
 @import "sass/layout/footer.sass";
+
 @import "sass/components/level.sass";
 @import "sass/components/card.sass";
 @import "sass/components/navbar.sass";
+
 @import "sass/form/_all.sass";
