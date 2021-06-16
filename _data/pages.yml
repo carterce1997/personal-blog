@@ -13,3 +13,6 @@
 - name: Coffee
   link: https://www.buymeacoffee.com/cecarter
   external: true
+
+- name: training
+  link: /training-log/
