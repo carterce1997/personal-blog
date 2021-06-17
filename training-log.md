@@ -15,8 +15,8 @@ Squatting with a belt and cutting depth seems to keep the back from getting irri
 - Power Clean 235 x 3 x 2
 
 - Press 4 x 4 x 155
-- Push Press 3 x 3 x 225
-- Row 3 x 5 x 225
+- Push Press 3 x 2 x 225
+- Row 3 x 3 x 225
 
 <hr>
 
