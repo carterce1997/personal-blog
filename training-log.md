@@ -18,6 +18,8 @@ Squatting with a belt and cutting depth seems to keep the back from getting irri
 - Push Press 3 x 2 x 225
 - Row 3 x 3 x 225
 
+- Superset Lat Pulldown 3 x 8 x 135, Face Pulls 3 x 10
+
 <hr>
 
 Jun 12, 2020
