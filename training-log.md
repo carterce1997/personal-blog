@@ -7,6 +7,14 @@ Loads are in pounds unless otherwise indicated.
 
 <hr>
 
+Jun 18, 2020
+
+Using my busy schedule right now as an opportunity to take a break from training. Honestly, it's nice. Looking forward to getting after it on Monday.
+
+- Pull Ups 4 x 5
+
+<hr>
+
 Jun 16, 2020
 
 Squatting with a belt and cutting depth seems to keep the back from getting irritated as much. Power cleans felt great. Focusing on keeping the arms long and relaxed seems to help leg drive and foot pressure.
