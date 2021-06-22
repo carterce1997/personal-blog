@@ -7,6 +7,25 @@ Loads are in pounds unless otherwise indicated.
 
 <hr>
 
+Jun 21, 2020
+
+First full day of training in a while. I felt surprisingly strong and recovered, except in the snatch (of course). Focus of this next cycle is going to be step loading weights over 2-3 week cycles in all the lifts, and doing some more bodybuilding to gain some muscle. I would also like to do more pulling to get my back strength up.
+
+Maybe some cardio too.
+
+- Squat 3 x 4 x 365
+- Snatch 205 x 3 x 1
+- Clean and Jerk 265 x 2 x 1
+
+- Deadlift 365 x 1 x 5
+- Press 155 x 4 x 5
+
+- Superset
+- Flat Bar Curl 3 x 10
+- Lat Pull Down 3 x 8 x 137.5
+
+<hr>
+
 Jun 18, 2020
 
 Using my busy schedule right now as an opportunity to take a break from training. Honestly, it's nice. Looking forward to getting after it on Monday.
