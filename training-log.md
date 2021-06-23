@@ -7,6 +7,15 @@ Loads are in pounds unless otherwise indicated.
 
 <hr>
 
+Jun 22, 2020
+
+Short one today because I was on a time crunch. Snatches feel like absolute garbage. Need more powers and OHS?
+
+- Snatch 205 x 6 x 1
+- Power Clean and Jerk 255 x 5 x 1
+
+<hr>
+
 Jun 21, 2020
 
 First full day of training in a while. I felt surprisingly strong and recovered, except in the snatch (of course). Focus of this next cycle is going to be step loading weights over 2-3 week cycles in all the lifts, and doing some more bodybuilding to gain some muscle. I would also like to do more pulling to get my back strength up.
