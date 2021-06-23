@@ -7,7 +7,7 @@ Loads are in pounds unless otherwise indicated.
 
 <hr>
 
-Jun 22, 2020
+Jun 22, 2021
 
 Short one today because I was on a time crunch. Snatches feel like absolute garbage. Need more powers and OHS?
 
@@ -16,7 +16,7 @@ Short one today because I was on a time crunch. Snatches feel like absolute garb
 
 <hr>
 
-Jun 21, 2020
+Jun 21, 2021
 
 First full day of training in a while. I felt surprisingly strong and recovered, except in the snatch (of course). Focus of this next cycle is going to be step loading weights over 2-3 week cycles in all the lifts, and doing some more bodybuilding to gain some muscle. I would also like to do more pulling to get my back strength up.
 
@@ -35,7 +35,7 @@ Maybe some cardio too.
 
 <hr>
 
-Jun 18, 2020
+Jun 18, 2021
 
 Using my busy schedule right now as an opportunity to take a break from training. Honestly, it's nice. Looking forward to getting after it on Monday.
 
@@ -43,7 +43,7 @@ Using my busy schedule right now as an opportunity to take a break from training
 
 <hr>
 
-Jun 16, 2020
+Jun 16, 2021
 
 Squatting with a belt and cutting depth seems to keep the back from getting irritated as much. Power cleans felt great. Focusing on keeping the arms long and relaxed seems to help leg drive and foot pressure.
 
@@ -58,7 +58,7 @@ Squatting with a belt and cutting depth seems to keep the back from getting irri
 
 <hr>
 
-Jun 12, 2020
+Jun 12, 2021
 
 Good training, but my low back wasn't happy with squats. Too much, too soon, I think. Taking the opportunity to step back and take it easy. Going to be step loading for a few months.
 
