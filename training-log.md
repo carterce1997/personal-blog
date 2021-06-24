@@ -7,6 +7,21 @@ Loads are in pounds unless otherwise indicated.
 
 <hr>
 
+June 23, 2021
+
+Olympic lifts felt good. Good training day. 
+
+- Power Snatch 3 x 2 x 90kg
+- Power Clean and Push Press 3 x 1 x 110kg
+- Deadlift 365 x 1 x 5
+
+- Squat 3 x 4 x 365
+- Press 155 x 4 x 5
+
+- Pull Ups 4 x 5
+
+<hr>
+
 Jun 22, 2021
 
 Short one today because I was on a time crunch. Snatches feel like absolute garbage. Need more powers and OHS?
