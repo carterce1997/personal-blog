@@ -7,9 +7,27 @@ Loads are in pounds unless otherwise indicated.
 
 <hr>
 
+June 28, 2021
+
+Another good training day. Olympic lifts felt very controlled. Trying to "stay in my quads" during the clean. 
+
+- Snatch 90kg x 1, 100kg x 1
+- Clean and Jerk 120kg x 2 x 1
+
+- Squat 3 x 5 x 365
+- Press 3 x 5 x 155
+- Deadlift 365 x 1 x 5
+
+- Pull Ups 3 x 3
+
+- Band Curls 2 x 12
+- Face Pulls 2 x 12
+
+<hr>
+
 June 23, 2021
 
-Olympic lifts felt good. Good training day. 
+Olympic lifts felt good. Good training day.
 
 - Power Snatch 3 x 2 x 90kg
 - Power Clean and Push Press 3 x 1 x 110kg
