@@ -7,11 +7,28 @@ Loads are in pounds unless otherwise indicated.
 
 <hr>
 
+July 8, 2021
+
+Early morning training, just trying to be strong. Squats and deadlifts actually felt good.
+
+- Squat 365 x 3 x 5
+- Bench Press 225 x 3 x 5
+- Deadlift 365 x 1 x 5
+
+<hr>
+
+Just work, after a long drive.
+
+- Power Snatch 195 x 8 x 1
+- Power Clean and Jerk 225 x 3 x 1
+
+<hr>
+
 June 29, 2021
 
 Usually I'm not proud of how I execute the lifts, but today I was. There is something to be said for the connection between the aesthetic quality of a lift and the physical quality of it. When a lift looks pleasing to the eye, it has been executed well. This is true in the strength lifts, but even truer in the classic lifts; few other movements combine grace and fluidity with maximal intensity, and the eye is pleased at the proper blend of the two.
 
-Another thought. Training should be like virtue: doing the right thing in the little, mundane, everyday things. That's the defining quality of moral uprightness, and the path to becoming very strong. Each training session should be the most and the least important thing; not easy, but not maximal effort, and entirely mundane and predictable. 
+Another thought. Training should be like virtue: doing the right thing in the little, mundane, everyday things. That's the defining quality of moral uprightness, and the path to becoming very strong. Each training session should be the most and the least important thing; not easy, but not maximal effort, and entirely mundane and predictable.
 
 But before we get too Platonic, I should mention that my knee hurts. Oh well.
 
