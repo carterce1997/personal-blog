@@ -7,6 +7,17 @@ Loads are in pounds unless otherwise indicated.
 
 <hr>
 
+July 13, 2021
+
+- Squat 315 x 5, 365 x 2 x 5
+- Power Clean 245 x 2 x 1, 255 x 1
+- Deadlift 365 x 1 x 5
+- Press 155 x 3 x 5
+
+59 minutes.
+
+<hr>
+
 July 8, 2021
 
 Early morning training, just trying to be strong. Squats and deadlifts actually felt good.
