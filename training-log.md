@@ -9,12 +9,12 @@ Loads are in pounds unless otherwise indicated.
 
 July 13, 2021
 
+59 minutes.
+
 - Squat 315 x 5, 365 x 2 x 5
 - Power Clean 245 x 2 x 1, 255 x 1
 - Deadlift 365 x 1 x 5
 - Press 155 x 3 x 5
-
-59 minutes.
 
 <hr>
 
