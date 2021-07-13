@@ -28,6 +28,8 @@ Early morning training, just trying to be strong. Squats and deadlifts actually 
 
 <hr>
 
+July 7, 2021
+
 Just work, after a long drive.
 
 - Power Snatch 195 x 8 x 1
