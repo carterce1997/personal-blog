@@ -15,6 +15,7 @@ July 13, 2021
 - Power Clean and Jerk 245 x 5 x 1
 - Deadlift 365 x 1 x 5
 - Press 160 x 3 x 5
+- Back extension 3 x 10
 
 <hr>
 
