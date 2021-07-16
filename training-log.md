@@ -9,6 +9,17 @@ Loads are in pounds unless otherwise indicated.
 
 July 13, 2021
 
+- Bike 3 mi
+
+- Power Snatch 205 x 5 x 1
+- Power Clean and Jerk 245 x 5 x 1
+- Deadlift 365 x 1 x 5
+- Press 160 x 3 x 5
+
+<hr>
+
+July 12, 2021
+
 59 minutes.
 
 - Squat 315 x 5, 365 x 2 x 5
